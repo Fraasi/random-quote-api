@@ -4,12 +4,8 @@ const quotes = require('../quotes/quotes.js')
 router.get('/', (req, res) => {
 	const authors = Object.keys(quotes)
 	const random = authors[Math.floor(Math.random() * authors.length)]
-	let quote = quotes[random]
-	if (quote.length > 0) {
-		quote = quote[Math.floor(Math.random() * quote.length)]
-	} else {
-		quote = quote[0]
-	}
+	const quoteArr = quotes[random]
+	const quote = quoteArr[Math.floor(Math.random() * quoteArr.length)]
 	const response = {
 		[random]: quote
 	}
