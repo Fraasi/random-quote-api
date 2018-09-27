@@ -1,4 +1,4 @@
-module.exports ={
+module.exports = {
   "Michael Ellner": [
     "Just look at us. Everything is backwards, everything is upside down. Doctors destroy health, lawyers destroy justice, psychiatrists destroy minds, scientists destroy truth, major media destroys information, religions destroy spirituality and governments destroy freedom."
   ],
@@ -11,7 +11,8 @@ module.exports ={
   "Michael Tsarion": [
     "You crave a relationship because you have none with yourself.",
     "Why were our ancestors saner and positively productive? Its a good question. Why were they less aggressive, acquisitive, and destructive? Why were they closer to nature? What is wrong with the way you exist? Well, the psychologists and sociologists of merit have been telling you for years. You are disassociated. You have infantile amnesia and inhabit an abstraction that is an anti-life. You are dead to the real and alive to the simulacra. You are outer-directed and always on the go, racing headlong toward your graves as if eager to get to them. You've replaced experience with reaction, intimacy with performance.",
-    "Perhaps the greatest myth being purveyed, is that myths are just myths."
+    "Perhaps the greatest myth being purveyed, is that myths are just myths.",
+    "Those who do not think will always be manipulated and controlled by those who do."
   ],
   "Swami Beyondananda": [
     "The bad news: There is no key to the universe. The good news: It was never locked."
@@ -53,7 +54,9 @@ module.exports ={
     "Everything great must first wear hideous and monstrous masks in order to inscribe themselves on the hearts of humanity",
     "Many a man fails as an original thinker simply because his memory is too good.",
     "When I picture a perfect reader, I always picture a monster of courage and curiosity, also something supple, cunning, cautious, a born adventurer and discoverer...",
-    "Equality is a lie concocted by inferior people who arrange themselves in herds to overpower those who are naturally superior to them. The morality of 'equal rights' is a herd morality, and because it opposes the cultivation of superior individuals, it leads to the corruption of the human species."
+    "Equality is a lie concocted by inferior people who arrange themselves in herds to overpower those who are naturally superior to them. The morality of 'equal rights' is a herd morality, and because it opposes the cultivation of superior individuals, it leads to the corruption of the human species.",
+    "Why does man not see things as they are? — because he is himself standing in the way: he conceals things.",
+    "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who 'think alike than those who think differently."
   ],
   "Richard Wagner": [
     "It is not important whether man is descended from apes; it is much more important, that he does not return there."
@@ -75,7 +78,8 @@ module.exports ={
     "Love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is done well."
   ],
   "G.I. Gurdjieff": [
-    "A man must first of all understand certain things. He has thousands of false ideas and false conceptions, chiefly about himself, and he must get rid of some of them before beginning to acquire anything new. Otherwise the new will be built on a wrong foundation and the result will be worse than before. To speak the truth is the most difficult thing in the world; one must study a great deal and for a long time in order to speak the truth. The wish alone is not enough. To speak the truth one must know what the truth is and what a lie is, and first of all in oneself. And this nobody wants to know."
+    "A man must first of all understand certain things. He has thousands of false ideas and false conceptions, chiefly about himself, and he must get rid of some of them before beginning to acquire anything new. Otherwise the new will be built on a wrong foundation and the result will be worse than before. To speak the truth is the most difficult thing in the world; one must study a great deal and for a long time in order to speak the truth. The wish alone is not enough. To speak the truth one must know what the truth is and what a lie is, and first of all in oneself. And this nobody wants to know.",
+    "Awakenlng is possible only for those who seek it and want it, for those who are ready to struggle with themselves and work on themselves for a very long time and very persistently in order to attain it."
   ],
   "Ayn Rand": [
     "There's no way to rule innocent men. The only power government has is the power to crack down on criminals. When there aren't enough criminals, one makes them. One declares so many things to be a crime that it becomes impossible for men to live without breaking laws.",
@@ -87,7 +91,8 @@ module.exports ={
   ],
   "Aristotle": [
     "He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god.",
-    "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+    "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "It is the mark of an educated mind, to be able to entertain a thought; a without accepting it."
   ],
   "Jim Morrison": [
     "Sex is Full of Lies. The body tries to tell the truth, but it's usually too battered with rules to be heard. We cripple ourselves with lies. --- Most people have no idea of what they're missing, our society places a supreme value on control, on hiding what you feel. It mocks primitive culture and prides itself on the suppression of natural instincts and impulses.",
@@ -104,7 +109,8 @@ module.exports ={
   ],
   "Aldous Huxley": [
     "The nature of the universe is such that ends can never justify the means. On the contrary, the means always determine the end.",
-    "Technological progress has merely provided us with more efficient means for going backwards."
+    "Technological progress has merely provided us with more efficient means for going backwards.",
+    "Most human beings have an almost infinite capacity for taking things for granted. That men do not learn very much from the lessons of history is the most important of all the lessons of history."
   ],
   "Jordan Maxwell ?": [
     "I may be foolish but certainly not a fool. Some would say I'm out of my mind while I say simply my mind is open."
@@ -112,7 +118,7 @@ module.exports ={
   "Nicolo Machiavelli": [
     "Men rise from one ambition to another. First they seek to secure themselves from attack, and then they attack others."
   ],
-  "Josef Göbbels": [
+  "Josef Goebbels": [
     "If the day should ever come when the Nazis must go, if some day we are compelled to leave the scene of history, we will slam the door so hard that the universe will shake and mankind will stand back in stupification."
   ],
   "George Bernard Shaw": [
@@ -156,7 +162,8 @@ module.exports ={
   "Albert Einstein": [
     "As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.",
     "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
-    "If at first the idea is not absurd, then there is no hope for it."
+    "If at first the idea is not absurd, then there is no hope for it.",
+    "We have been all wrong. What we have called matter is energy, whose vibration has been lowered as to be perceptible to the senses."
   ],
   "Eric Arthur Blair": [
     "All the war propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting.",
@@ -183,7 +190,7 @@ module.exports ={
   "Aleksandr Solzhenitsyn": [
     "You can only have power over people so long as you don’t take everything away from them. But when you’ve robbed a man of everything he’s no longer in your power – he’s free again."
   ],
-  "Manley P. Hall": [
+  "Manley Palmer Hall": [
     "When the mob governs, man is ruled by ignorance; when the church governs, he is ruled by superstition; and when the state governs, he is ruled by fear. Before men can live together in harmony and understanding, ignorance must be transmuted into wisdom, superstition into an illuminated faith, and fear into love."
   ],
   "Confucius": [
@@ -199,8 +206,13 @@ module.exports ={
   "Mike Adams": [
     "It's downright amazing: A biomedical engineer at Boston University has developed a so-called \"artificial pancreas\" that helps diabetics maintain balanced blood sugar levels by monitoring the blood and releasing either insulin or glucagon as needed. Now all those people who eat artificial food advertised through artificial worlds on television can add an artificial pancreas to their artificial health care plan."
   ],
-  "Manly P. Hall, Secret Teachings of All Ages": [
-    "In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed."
+  "Manly Palmer Hall": [
+    "In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed.",
+    "It is impossible to enslave man merely by slaving his body. The mind also must be held, and to accomplish this, fear is the accepted weapon. The common man must fear life, fear death, fear god. fear the devil. and fear most the overlords, the keepers of his destiny."
+  ],
+  "George Orwell": [
+    "The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
+    "Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'"
   ],
   "Anonymous": [
     "Adulthood is only achieved when a person grasps the level of maturity necessary to allow their inner expressions to override external influences. An adult is someone who can achieve their own health, learning, happiness or bliss without needing to turn to external (artificial) stimulations to mimic such conditions",
@@ -313,6 +325,7 @@ module.exports ={
     "So it turns out that if 5% of the United States were converted into urban area with a population density of 6,000/km2, and 45% were converted into suburban area with a population density of 2,000/km2, with the remaining 50% left for rural area, parks, and farms, there would be enough room for 3 billion in the urban areas, and 9 billion in the suburban areas, for a total population of 12 billion. This is in the US alone. This scheme could be extended to the other countries and continents for a total population of around 100 billion. Everything between the Arctic and Antarctic circles are potential targets for colonization. This is about 130,000,000 km2 of land area (the circumpolar regions have about 20,000,000 km2 of land).",
     "Erie is a short form of the Iroquian word Erielhonan meaning literally 'long tail' and referring to the panther (cougar or mountain lion). Hence their French name was Nation du Chat (cat nation).",
     "In 1968, George Land gave 1,600 5-year-olds a creativity test used by NASA to select innovative engineers and scientists. He then re-tested the same children at ages 10 and 15. The test results were staggering! 98% at age 5 registered genius level creativity, 30% at 10 year and 12% at 15 years of age. The same test given to 280,000 adults placed their genius level creativity at only 2% ! In his book 'Breakpoint and Beyond', co-authored by Beth Jarman, Land concluded that non-creative behavior is learned.",
+    "Yhteistyö on mahdollista, ei tarvitse suoriutua yksin. <br>Tuli palaa vaikka nuotio on sammunut, rauhaa ei tarvitse etsiä metsästä.<br>Se, että polkua ei näe, ei tarkoita, etteikö polkua olisi olemassa.",
     "The truth can only be accepted by people who have no personal investment in the lie. Thomas Kuhn famously observed that paradigm shifts happen not when the investors in the old paradigm change their minds, but when they die.",
     "We Don’t See Things As They Are, We See Them As We Are.",
     "Expect the best, prepare for the worst, that's how it should be. You all expect the worst and don't prepare at all.",
@@ -408,7 +421,8 @@ module.exports ={
     "Dharma is the study of what IS, and the only way you can find out what is true is through studying yourself."
   ],
   "Terence Mckenna": [
-    "Telepathy is you seeing what somebody else means."
+    "Telepathy is you seeing what somebody else means.",
+    "The main thing to understand is that we are imprisoned in some kind of work of art."
   ],
   "Quills, movie": [
     "Dr. Royer-Collard: I won't sully my hands with him. <br> Marquis de Sade: Nor should you. That's the first rule of politics, isn't it? The man who drops the execution never drops the blade."
@@ -447,7 +461,8 @@ module.exports ={
     "But beware of looking for goals: look for a way of life. Decide how you want to live and then see what you can do to make a living WITHIN that way of life."
   ],
   "Robert Anton Wilson": [
-    "We live in our myths, we only endure our realities."
+    "We live in our myths, we only endure our realities.",
+    "On a planet that increasingly resembles one huge maximum security prison, the only intelligent choice is to plan a jail break."
   ],
   "Willhelm Reich": [
     "Nobody can recognize an emotion in others unless they've experienced it themselves."
@@ -554,9 +569,6 @@ module.exports ={
   ],
   "Colin Quinn": [
     "We're just doing what we do, re-enacting life as we live it."
-  ],
-  "2013 pajalaiset": [
-    "Yhteistyö on mahdollista, ei tarvitse suoriutua yksin. <br>Tuli palaa vaikka nuotio on sammunut, rauhaa ei tarvitse etsiä metsästä.<br>Se, että polkua ei näe, ei tarkoita, etteikö polkua olisi olemassa."
   ],
   "Kyle Hunt": [
     "To find out who is oppressed, simply find out who you are not allowed to support."
@@ -785,7 +797,8 @@ module.exports ={
     "Psychedelics are illegal not because a loving Government is concerned that you might jump out of a third story window... Psychedelics are illegal because they dissolve opinion structures and cuturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is WRONG."
   ],
   "Nikola Tesla": [
-    "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality."
+    "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.",
+    "Anti-social behaviour is a trait of intelligence in a  world full of conformists."
   ],
   "Sherry L. Ackerman, Ph.D.": [
     "Nietzsche said that we were all Hyperboreans. I'd say that if our culture were any more alienated from Nature, he'd have been better advised to call us all Extraterrestrials. We are, frankly, so removed from Nature that it's hard to take seriously our claim to be a vital part of the planet."
@@ -813,7 +826,8 @@ module.exports ={
   ],
   "Mark Twain": [
     "If we are here to help the others, then what exactly are the others for?",
-    "In religion and politics people’s beliefs and convictions are in almost every case gotten at second-hand, and without examination, from authorities who have not themselves examined the questions at issue but have taken them at second-hand from other non-examiners, whose opinions about them were not worth a brass farthing."
+    "In religion and politics people’s beliefs and convictions are in almost every case gotten at second-hand, and without examination, from authorities who have not themselves examined the questions at issue but have taken them at second-hand from other non-examiners, whose opinions about them were not worth a brass farthing.",
+    "The history of our race, and each individual's experience, are sown thick with evidence that a truth is not hard to kill and that a lie told well is immortal."
   ],
   "Black Elk": [
     "Everything the power of the world does is done in a circle. The sky is round, and I have heard that the earth is round like a ball, and so are all the stars. The wind, in its greatest power, whirls. Birds make their nests in circles, for theirs is the same religion as ours. The sun comes forth and goes down again in a circle. The moon does the same, and both are round. Even the seasons form a great circle in their changing, and always come back again to where they were. The life of a man is a circle from childhood to childhood, and so it is in everything where power moves. Our tipis are round like the nests of birds, and these are always set in a circle, the nation's hoop, a nest of many nests, where the Great Spirit meant for us to hatch our children. But the Wasichus have put us in square boxes. Our power is gone and we are dying, for the power is not in us any more."
@@ -837,6 +851,66 @@ module.exports ={
   ],
   "Henry Rollins": [
     "No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. <br> Go."
+  ],
+  "Christopher Hitchens": [
+    "Religion is not the belief there is a God, religion is the belief God tells you what to do."
+  ],
+  "Erich Fromm": [
+    "In fact, it is the fully sane person who feels isolated in the insane society — and he may suﬂer so much from the incapacity to communicate that it is he who may become psycholic."
+  ],
+  "Zhuang Zhou": [
+    "Who can free himself from achievement, and from fame, descend and be losl, amld the 'masses of men? He will ﬂow like Tao, unseen, he will go aboul like Life itself with no name and no home. Simple he is, without distinction. To all appearances he is a fool. His steps leave no trace. He has no power. He achieves nothing, has no reputation. Since he judges no one, no one judges him. Such is the perfect man. His boat is empty."
+  ],
+  "Aurelio Peccei, founder of the club of rome, quoted in the first global revolution, 1991": [
+    "In searching for a new enemy to unite us, we came up with the idea that pollution, the threat of global warming, water shortages, famine and the like would fit the bill."
+  ],
+  "Bible, Psalm 107:27": [
+    "They reel to and fro, and stagger like a drunken man, and are at their wits' end."
+  ],
+  "Bible, Isaiah 24:20": [
+    "The earth shall reel to and fro like a drunkard."
+  ],
+  "Josef Stalin": [
+    "Divide the world into regional groups as a transitional stage to world government. Populations will more readily abandon their national loyalty to a vague regional loyalty than they will for a world authority. Later the regions can be brought together all the way into a single world dictatorship."
+  ],
+  "Richard Matheson": [
+    "Let us agree, there is no one single reality. Not upon this stage, not in this world, all is in the mind... Imagination is the only truth, because it cannot be contradicted except by other imaginations."
+  ],
+  "Derren Brown": [
+    "My natural response to anything emotionally demanding is to detach. I can be very intolerant and that comes from liking things to be just so. I love the theatre but I always go on my own. Anything which feeds one's soul has to be done alone."
+  ],
+  "Robert Crease": [
+    "Physicist are trained to investigate a problem before arriving at a decision. Lawyers, advertisers and others are trained to do exactly the opposite: to seek data to confirm a determination that has already been made."
+  ],
+  "William S. Burroughs": [
+    "A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on."
+  ],
+  "Winston Churchill, 1936 broadcast": [
+    "We will force this war upon Hitler, if he wants it or not."
+  ],
+  "Flemming Rose": [
+    "If a believer demands that I, as a nonbeliever, observe his taboos in the public domain, he is not asking for my respect, but for my submission."
+  ],
+  "Alex Collier  ": [
+    "The love that you withhold is the pain that you carry."
+  ],
+  "Ian Williams Goddard": [
+    "A society whose citizens refuse to see and investigate the facts, who refuse to believe that their government and their media will routinely lie to them and fabricate a reality contrary to verifiable facts. is a society that chooses and deserves the police state dictatorship it‘s going to get."
+  ],
+  "Alan Moore": [
+    "Art is, like magic, the science of manipulating symbols, words or images, to achieve changes in consciousness… Indeed to cast a spell is simply to spell, to manipulate words, to change peoples consciousness, and this is why I believe that an artist or writer is the closest thing in the contemporary world to a shaman."
+  ],
+  "William Cooper": [
+    "Read everything, listen to everybody, believe nothing, unless you can prove it with your own research."
+  ],
+  "Joseph Goebbels": [
+    "Humanity would sink into eternal darkness, it would fall into a dull and primitive state, were the jews to win this war."
+  ],
+  "Claudia Pavonis": [
+    "We didn't invent the wheel, the wheel invented us."
+  ],
+  "Alexander Shulgin": [
+    "Our generation is the first ever to have made the search for self-awareness a crime."
   ],
   "Michael Crichton": [
     "Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the \"wet streets cause rain\" stories. Paper's full of them.<br>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know."

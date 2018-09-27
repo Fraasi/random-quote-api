@@ -5,13 +5,12 @@ const q = require('./quotes_data')
 Throw quotes_data.js here from rqm,
 add module.exports =
 run node requote.js,
-upload to heroku
+upload to heroku, -> git push heroku master
  */
 
 function reOrganizeQuotes(quotes) {
 	// from { quote: author}
-	// to { author: [quote] }
-
+	// to { author: [quote, quote] }
 	const newObj = {}
 	Object.entries(quotes).forEach(([key, value]) => {
 		newObj[value] === undefined ?
@@ -19,8 +18,7 @@ function reOrganizeQuotes(quotes) {
 			newObj[value].push(key)
 	})
 
-	fs.writeFileSync('quotes/quotes.js', 'module.exports =' + JSON.stringify(newObj, null, 2))
-
+	fs.writeFileSync('quotes/quotes.js', 'module.exports = ' + JSON.stringify(newObj, null, 2))
 	const numberOfQuotes = Object.keys(newObj).reduce((acc, key) => {
 		return acc + newObj[key].length
 	}, 0)
