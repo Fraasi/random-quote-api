@@ -2,10 +2,11 @@ const fs = require('fs')
 const q = require('./quotes_data')
 
 /*
-Throw quotes_data.js here from rqm,
-add module.exports =
-run node requote.js,
-upload to heroku, -> git push heroku master
+Throw quotes_data.js here from rqm, add module.exports =
+node requote.js
+(heroku login)
+git po master
+git push heroku master
  */
 
 function reOrganizeQuotes(quotes) {
