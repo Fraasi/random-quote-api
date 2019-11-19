@@ -34,6 +34,8 @@ module.exports = {
     "You are to yourself what your thoughts are, you are to others what your actions are."
   ],
   "Friedrich Nietzsche": [
+    "Verily, I have often laughed at the weaklings who thought themselves good because they had no claws",
+    "You have your way. I have my way. As for the right way, the correct way and the only way, it does not exist.",
     "The time for petty politics is over: the very next century will bring the fight for the dominion of the earth -- the compulsion to large-scale politics.",
     "When we are tired, we are attacked by ideas we conquered long ago.",
     "...a fullness of state power such as only despotism had enjoyed...surpassed all the past because it strove for the formal annihilation of the individual...Once the earth is brought under all-embracing economic control, then mankind will find it has been reduced to machinery in its service, as a monstrous clockwork system of ever smaller, more finely adjusted wheels.",
@@ -44,7 +46,7 @@ module.exports = {
     "There are no facts, only interpretations.",
     "Fanatics are pictoresque: mankind would rather see gestures than listen to reasons.",
     "You must have chaos within you to give birth to a dancing star.",
-    "He who has a 'why' to live for can bear almost any 'how.'",
+    "He who has a 'why' to live for can bear almost any 'how'.",
     "People demand freedom only when they have no power.",
     "The doctrine of equality! … But there is no more venomous poison in existence: for it appears to be preached by justice itself, when it is actually the end of justice … \"Equality to the equal; inequality to the unequal\" — that would be true justice speaking: and its corollary, \"never make the unequal equal\".",
     "As long as you still experience the stars as something 'above you' you lack the eye of knowledge.",
@@ -88,13 +90,13 @@ module.exports = {
     "When you see that trading is done, not by consent, but by compulsion—when you see that in order to produce, you need to obtain permission from men who produce nothing—when you see that money is flowing to those who deal, not in goods, but in favors—when you see that men get richer by graft and by pull than by work, and your laws don’t protect you against them, but protect them against you—when you see corruption being rewarded and honesty becoming a self-sacrifice—you may know that your society is doomed.",
     "The most depraved type of human being is the man without a purpose."
   ],
-  "Grant Morrison, The Filth": [
-    "Metaphor is one of a group of problem-solving medicines known as figures-of-speech which are normally used to treat literal thinking and other diseases."
+  "Grant Morrison": [
+    "Metaphor is one of a group of problem-solving medicines known as figures-of-speech which are normally used to treat literal thinking and other diseases. (The Filth)"
   ],
   "Aristotle": [
     "He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god.",
     "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-    "It is the mark of an educated mind, to be able to entertain a thought; a without accepting it."
+    "It is the mark of an educated mind, to be able to entertain a thought without accepting it."
   ],
   "Jim Morrison": [
     "Sex is Full of Lies. The body tries to tell the truth, but it's usually too battered with rules to be heard. We cripple ourselves with lies. --- Most people have no idea of what they're missing, our society places a supreme value on control, on hiding what you feel. It mocks primitive culture and prides itself on the suppression of natural instincts and impulses.",
@@ -150,7 +152,9 @@ module.exports = {
     "When enough food exists and people cannot get it by honest labour, the state is rotten, and no effort of language will say how rotten it is. But for a banker or professor to tell you that the country cannot do this, that or the other because it lacks money is as black and foetid a lie, as grovelling and imbecile, as it would be to say it cannot build roads because it has no kilometres."
   ],
   "George Carlin": [
-    "I leave symbols for the simple minded."
+    "I leave symbols for the simple minded.",
+    "Don’t confuse me with those who cling to hope. I enjoy describing how things are, I have no interest in how they ‘ought to be’. And I certainly have no interest in fixing them. I sincerely believe that if you think there’s a solution, you’re part of the problem. My motto: Fuck Hope! (Brain Droppings)",
+    "The decay and disintegration of this culture is astonishingly amusing if you are emotionally detached from it. I have always viewed it from a safe distance, knowing I don’t belong; it doesn’t include me, and it never has. No matter how you care to define it, I do not identify with the local group. Planet, species, race, nation, state, religion, party, union, club, association, neighborhood improvement committee; I have no interest in any of it. I love and treasure individuals as I meet them, I loathe and despise the groups they identify with and belong to. (Brain Droppings)"
   ],
   "T.S. Eliot": [
     "The last temptation is the greatest treason. To do the right thing for the wrong reason."
@@ -249,8 +253,8 @@ module.exports = {
   "Arthur Schopenhauer": [
     "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."
   ],
-  "Dwight D. Eisenhower, farewell address": [
-    "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing for granted only an alert and knowledgeable citizenry can compel the proper meshing of huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together."
+  "Dwight D. Eisenhower": [
+    "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing for granted only an alert and knowledgeable citizenry can compel the proper meshing of huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together. (farewell address)"
   ],
   "James Baldwin": [
     "People who shut their eyes to reality simply invite their own destruction, and anyone who insists on remaining in a state of innocence long after that innocence is dead turns  himself into a monster."
@@ -493,12 +497,8 @@ module.exports = {
     "What do you want a meaning for? Life is a desire, not a meaning.",
     "You need power only when you want to do something harmful, otherwise love is enough to get everything done."
   ],
-  "George Carlin, Brain Droppings": [
-    "Don’t confuse me with those who cling to hope. I enjoy describing how things are, I have no interest in how they ‘ought to be’. And I certainly have no interest in fixing them. I sincerely believe that if you think there’s a solution, you’re part of the problem. My motto: Fuck Hope!",
-    "The decay and disintegration of this culture is astonishingly amusing if you are emotionally detached from it. I have always viewed it from a safe distance, knowing I don’t belong; it doesn’t include me, and it never has. No matter how you care to define it, I do not identify with the local group. Planet, species, race, nation, state, religion, party, union, club, association, neighborhood improvement committee; I have no interest in any of it. I love and treasure individuals as I meet them, I loathe and despise the groups they identify with and belong to."
-  ],
   "Rumple": [
-    "All the voices in my head, will be quiet when i'm dead..."
+    "All the voices in my head, will be quiet when I'm dead..."
   ],
   "Bill Cooper": [
     "Anyone who ever comes to me and tells me that music doesnt penetrate directly to the soul, doesnt have a soul."
@@ -654,7 +654,7 @@ module.exports = {
   "Seen on a poster in NY around 1998": [
     "Everything you know is wrong."
   ],
-  " Anon Soldier": [
+  "Anon Soldier": [
     "I would rather be a soldier in a garden, than a gardener in a war."
   ],
   "Bodhidharma": [
@@ -865,14 +865,12 @@ module.exports = {
   "Zhuang Zhou": [
     "Who can free himself from achievement, and from fame, descend and be losl, amld the 'masses of men? He will ﬂow like Tao, unseen, he will go aboul like Life itself with no name and no home. Simple he is, without distinction. To all appearances he is a fool. His steps leave no trace. He has no power. He achieves nothing, has no reputation. Since he judges no one, no one judges him. Such is the perfect man. His boat is empty."
   ],
-  "Aurelio Peccei, founder of the club of rome, quoted in the first global revolution, 1991": [
-    "In searching for a new enemy to unite us, we came up with the idea that pollution, the threat of global warming, water shortages, famine and the like would fit the bill."
+  "Aurelio Peccei": [
+    "In searching for a new enemy to unite us, we came up with the idea that pollution, the threat of global warming, water shortages, famine and the like would fit the bill. (founder of the club of rome, quoted in the first global revolution, 1991)"
   ],
-  "Bible, Psalm 107:27": [
-    "They reel to and fro, and stagger like a drunken man, and are at their wits' end."
-  ],
-  "Bible, Isaiah 24:20": [
-    "The earth shall reel to and fro like a drunkard."
+  "Bible": [
+    "They reel to and fro, and stagger like a drunken man, and are at their wits' end. (Psalm 107:27)",
+    "The earth shall reel to and fro like a drunkard. (Isaiah 24:20)"
   ],
   "Josef Stalin": [
     "Divide the world into regional groups as a transitional stage to world government. Populations will more readily abandon their national loyalty to a vague regional loyalty than they will for a world authority. Later the regions can be brought together all the way into a single world dictatorship."
@@ -888,9 +886,6 @@ module.exports = {
   ],
   "William S. Burroughs": [
     "A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on."
-  ],
-  "Winston Churchill, 1936 broadcast": [
-    "We will force this war upon Hitler, if he wants it or not."
   ],
   "Flemming Rose": [
     "If a believer demands that I, as a nonbeliever, observe his taboos in the public domain, he is not asking for my respect, but for my submission."
