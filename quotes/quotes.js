@@ -281,7 +281,8 @@ module.exports = {
     "I never wanted to be an actor, I wanted to be a drunk. Now I'm neither, but nobody can tell the difference.",
     "If a thing is worth having, it's worth cheating for.",
     "If you can't razzle them with dazzle, baffle them with bullshit.",
-    "It ain't what they call you, it's what you answer to."
+    "It ain't what they call you, it's what you answer to.",
+    "Goddamn the whole friggin' world but you, Carlotta! (last words)"
   ],
   "H. G. Wells": [
     "Go away. I'm all right. (Last words)",
@@ -379,9 +380,6 @@ module.exports = {
   "Midrasch Talpioth, p. 225-L": [
     "Jehovah created the non-Jew in human form so that the Jew would not have to be served by beasts. The non-Jew is consequently an animal in human form, and condemned to serve the Jew day and night."
   ],
-  "Patrick Mcgoohan": [
-    "There's never been a weapon created yet on the face of the earth that hasn't been  used."
-  ],
   "Charles Baudelaire": [
     "Evil is committed without effort, naturally, fatally; goodness is always the product of some art.",
     "God is the only being who, in order to reign, doesn't even need to exist. ",
@@ -454,8 +452,8 @@ module.exports = {
   "Romans 3:23": [
     "For all have sinned and come short of the glory of God."
   ],
-  "Lewis Mumford, 1951": [
-    "The most deadly criticism one could make of modern civilization is that apart from its man-made crises and catastrophes, [it] is not humanly interesting. . . . In the end, such a civilization can produce only a mass man: incapable of spontaneous, self-directed activities: at best patient, docile, disciplined to monotonous work to an almost pathetic degree. . . . Ultimately such a society produces only two groups of men: the conditioners and the conditioned, the active and passive barbarians."
+  "Lewis Mumford": [
+    "The most deadly criticism one could make of modern civilization is that apart from its man-made crises and catastrophes, [it] is not humanly interesting. . . . In the end, such a civilization can produce only a mass man: incapable of spontaneous, self-directed activities: at best patient, docile, disciplined to monotonous work to an almost pathetic degree. . . . Ultimately such a society produces only two groups of men: the conditioners and the conditioned, the active and passive barbarians. (1951)"
   ],
   "William Blake": [
     "Those who restrain desire. do so because theirs is weak enough to be restrained.",
@@ -550,13 +548,7 @@ module.exports = {
   "Thich Nhat Hanh": [
     "When another person makes you suffer, it is because he suffers deeply within himself, and his suffering is spilling over. He does not need punishment; he needs help. That's the message he is sending."
   ],
-  "1 Corinthians 13:7": [
-    "Believeth all things."
-  ],
-  "Proverbs 31:6-7": [
-    "Give liquor to someone who is perishing, and wine to someone who is deeply depressed. Let him drink, forget his poverty, and remember his troubles no more."
-  ],
-  "Zen saying": [
+  "Zen proverb": [
     "If you want a certain thing, you must first be a certain person. Once you are that certain person, obtaining that certain thing will no longer be a concern of yours.",
     "The Great Way is not difficult for those who have no preferences."
   ],
@@ -607,13 +599,13 @@ module.exports = {
     "Book is a mirror. When a monkey looks in, no philosopher looks out."
   ],
   "Scottish Proverb": [
-    "They speak of my drinking.  But, never of my thirst."
+    "They speak of my drinking. But, never of my thirst."
   ],
   "Alvin Toffler": [
     "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn."
   ],
-  "Herman Hesse, Siddharta": [
-    "Wisdom is not communicable. The wisdom which a wise man tries to communicate always sounds foolish... Knowledge can be communicated, but not wisdom. One can find it, live it, be fortified by it, do wonders through it, but one cannnot communicate and teach it."
+  "Herman Hesse": [
+    "Wisdom is not communicable. The wisdom which a wise man tries to communicate always sounds foolish... Knowledge can be communicated, but not wisdom. One can find it, live it, be fortified by it, do wonders through it, but one cannnot communicate and teach it. (Siddharta)"
   ],
   "Ajahn Brahm": [
     "A prison is just somewhere you don't want to be."
@@ -622,7 +614,8 @@ module.exports = {
     "I do think a man has missed a very deep feeling of satisfaction if he has never created something, or at least completed something with his own two hands."
   ],
   "Patrick McGoohan": [
-    "Freedom is a myth."
+    "Freedom is a myth.",
+    "There's never been a weapon created yet on the face of the earth that hasn't been used."
   ],
   "Sledge Hammer": [
     "Why are you smiling? -Why? 'Cos I'm trigger happy, that's why.",
@@ -634,7 +627,7 @@ module.exports = {
     "Sledge, do you believe in The afterlife? - I dont even believe in life.",
     "Are you thinking what I'm thinking? - I dont know. I'm thinking of invading afghanistan by myself. What are you thinking?",
     "Please you have to help me. - Hey, you're a communist, you're beyond help.",
-    "I'm not afraid of anything... exept worldpeace.",
+    "I'm not afraid of anything... except world peace.",
     "In Russia we practise shooting dissidents. - Here we call them liberals.",
     "Doreau: I've got an idea. - Now your thinking like a man.",
     "Why dont you get your hair done? - You dissappoint me, Doreau. I'm a nihilist, not a stylist.",
@@ -645,7 +638,7 @@ module.exports = {
   ],
   "Bill Hicks": [
     "Today a young man on acid realized that all matter is merely energy condensed to a slow vibration. That we are all one consciousness experiencing itself subjectively. There is no such thing as death, life is only a dream, and we’re the imagination of ourselves.",
-    "...says we are losing the war on drugs. you know what that implies. There's a war being fought and people on drugs are winning it.... What does that tell you about drugs? Some smart creative people on that side. They're winning a war and they're fucked up.",
+    "The president says we are losing the war on drugs. you know what that implies. There's a war being fought and people on drugs are winning it.... What does that tell you about drugs? Some smart creative people on that side. They're winning a war and they're fucked up.",
     "The whole world's insane and I'm proud to be part of it."
   ],
   "I Ching": [
@@ -654,7 +647,7 @@ module.exports = {
   "Seen on a poster in NY around 1998": [
     "Everything you know is wrong."
   ],
-  "Anon Soldier": [
+  "Anonymous Soldier": [
     "I would rather be a soldier in a garden, than a gardener in a war."
   ],
   "Bodhidharma": [
@@ -694,11 +687,9 @@ module.exports = {
   "Jay Gould (1886)": [
     "I can hire half of the working class to kill the other half."
   ],
-  "Markku Lahtelan vaalijuliste, 1966": [
-    "Radikaalisuus ei ole haihattelua eikä repimistä, se on menemistä asioiden ytimeen ja sieltä tapahtuvaa rakentamista."
-  ],
   "Markku Lahtela": [
-    "Kenenkään ei ole toteltava ketään. Mutta kaikkien on otettava toisensa huomioon."
+    "Kenenkään ei ole toteltava ketään. Mutta kaikkien on otettava toisensa huomioon.",
+    "Radikaalisuus ei ole haihattelua eikä repimistä, se on menemistä asioiden ytimeen ja sieltä tapahtuvaa rakentamista. (vaalijuliste, 1966)"
   ],
   "Mussolini": [
     "Fascism should more properly be called corporatism, since it is the marriage of government and corporate power."
@@ -745,17 +736,15 @@ module.exports = {
   "Harry Crumb": [
     "I've been so thoroughly trained, I don't even have to think before I speak."
   ],
-  "W. C. Fields (last words)": [
-    "Goddamn the whole friggin' world but you, Carlotta!"
-  ],
   "Timothy Leary": [
     "At one point consciousness-altering devices like the microscope and telescope were criminalized for exactly the same reasons that psychedelic plants were banned in later years. They allow us to peer into bits and zones of Chaos."
   ],
   "The late Dr Hunter S. Thompson": [
     "The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over."
   ],
-  "Lewis Carroll, Alice in Wonder land": [
-    "Nothing would be what it is, Because everything would be what it isn´t. And contrary-wise -what it is , it wouldn´t be. And what it wouldn´t be, it would. You see?"
+  "Lewis Carroll": [
+    "Nothing would be what it is, Because everything would be what it isn´t. And contrary-wise - what it is, it wouldn´t be. And what it wouldn´t be, it would. You see? (Alice in Wonder land)",
+    "“When I use a word,” Humpty Dumpty said, in rather a scornful tone, “it means just what I choose it to mean — neither more nor less.” “The question is,” said Alice, “whether you can make words mean so many different things.” “The question is,” said Humpty Dumpty, “which is to be master — that’s all.” (Through the Looking-Glass)"
   ],
   "Henry James": [
     "We work in the dark. We do what we can. We give what we have. Our doubt is our passion, and our passion is our tas. The rest is the madness of art."
@@ -819,14 +808,11 @@ module.exports = {
   "Timo Cantell": [
     "Those who have a vision have power."
   ],
-  "Lewis Carroll, Through the Looking-Glass": [
-    "“When I use a word,” Humpty Dumpty said, in rather a scornful tone, “it means just what I choose it to mean — neither more nor less.”“The question is,” said Alice, “whether you can make words mean so many different things.” “The question is,” said Humpty Dumpty, “which is to be master — that’s all.”"
-  ],
   "Boyd Rice": [
     "When you are born without the ordinary feelings and emotions shared by most other human beings, life looks different to you. It seems at times like a movie you’re walking through, more a spectator than a participant. There is above all a lack of empathy with most of mankind, a sense of detachment. But with detachment comes perspective. The less you care, the more you know, and the more you know the less you care."
   ],
   "Tove Jansson": [
-    "It is simply this: do not tire, never lose interest, never grow indifferent—lose your invaluable curiosity and you let yourself die. It's as simple as that."
+    "It is simply this: do not tire, never lose interest, never grow indifferent — lose your invaluable curiosity and you let yourself die. It's as simple as that."
   ],
   "Mark Twain": [
     "If we are here to help the others, then what exactly are the others for?",
@@ -854,7 +840,7 @@ module.exports = {
     "But if you are not experiencing mass hysteria, you might be totally confused by the actions of the people who are. They appear to be irrational, but in ways that are hard to define. You can’t tell if they are stupid, unscrupulous, ignorant, mentally ill, emotionally unstable or what. It just looks frickin’ crazy."
   ],
   "Henry Rollins": [
-    "No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time.  Go."
+    "No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. Go."
   ],
   "Christopher Hitchens": [
     "Religion is not the belief there is a God, religion is the belief God tells you what to do."
@@ -870,7 +856,9 @@ module.exports = {
   ],
   "Bible": [
     "They reel to and fro, and stagger like a drunken man, and are at their wits' end. (Psalm 107:27)",
-    "The earth shall reel to and fro like a drunkard. (Isaiah 24:20)"
+    "The earth shall reel to and fro like a drunkard. (Isaiah 24:20)",
+    "Give liquor to someone who is perishing, and wine to someone who is deeply depressed. Let him drink, forget his poverty, and remember his troubles no more. (Proverbs 31:6-7)",
+    "Believeth all things. (1 Corinthians 13:7)"
   ],
   "Josef Stalin": [
     "Divide the world into regional groups as a transitional stage to world government. Populations will more readily abandon their national loyalty to a vague regional loyalty than they will for a world authority. Later the regions can be brought together all the way into a single world dictatorship."
