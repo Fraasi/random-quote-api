@@ -68,7 +68,7 @@ module.exports = {
     "Cancer was practically unknown until the cowpox vaccination began to be introduced... I have seen 200 cases of cancer, and never saw a case in an unvaccinated person."
   ],
   "Carl Gustav Jung": [
-    "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+    "People will do anything, no matter how absurd, in order to avoid facing their own soul. One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
     "Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible.",
     "I am not what happened to me, I am what I choose to become."
   ],
@@ -76,7 +76,10 @@ module.exports = {
     "Any culture that destroys its own life support systems and calls that progress is totally insane."
   ],
   "Henri-Frederic Amiel": [
-    "So long as a person is capable of self-renewal they are a living being."
+    "So long as a person is capable of self-renewal they are a living being.",
+    "The man who has no inner-life is a slave to his surroundings.",
+    "Clever people will recognize and tolerate nothing but cleverness.",
+    "Learn to limit yourself; to content yourself with some definite work; dare to be what you are and learn to resign with a good grace all that you are not; and to believe in your own individuality."
   ],
   "Vincent van Gogh": [
     "Love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is done well."
@@ -140,7 +143,7 @@ module.exports = {
     "Only in romantic novels do people die for love; in reality, they die for hate.",
     "They cannot be converted to our views."
   ],
-  "Salvador Dalí": [
+  "Salvador Dali": [
     "I believe that the moment is near when by a procedure of active paranoiac thought, it will be possible to systematize confusion and contribute to the total discrediting of the world of reality.",
     "Those who do not want to imitate anything, produce nothing."
   ],
@@ -196,9 +199,6 @@ module.exports = {
   "Aleksandr Solzhenitsyn": [
     "You can only have power over people so long as you don’t take everything away from them. But when you’ve robbed a man of everything he’s no longer in your power – he’s free again."
   ],
-  "Manley Palmer Hall": [
-    "When the mob governs, man is ruled by ignorance; when the church governs, he is ruled by superstition; and when the state governs, he is ruled by fear. Before men can live together in harmony and understanding, ignorance must be transmuted into wisdom, superstition into an illuminated faith, and fear into love."
-  ],
   "Confucius": [
     "When you are angry, you cannot be correct. When you are frightened, you cannot be correct; when there is something you desire, you cannot be correct; when there is something you are anxious about, you cannot be correct. When the mind is not present, we look, but do not see. We listen, but do not hear, we eat, but don't taste our food. This is the meaning of \"the cultivation of the person lies in the correction of the mind.\"",
     "Signs and symbols control the world, not phrases and laws."
@@ -217,7 +217,8 @@ module.exports = {
   ],
   "Manly Palmer Hall": [
     "In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed.",
-    "It is impossible to enslave man merely by slaving his body. The mind also must be held, and to accomplish this, fear is the accepted weapon. The common man must fear life, fear death, fear god. fear the devil. and fear most the overlords, the keepers of his destiny."
+    "It is impossible to enslave man merely by slaving his body. The mind also must be held, and to accomplish this, fear is the accepted weapon. The common man must fear life, fear death, fear god. fear the devil. and fear most the overlords, the keepers of his destiny.",
+    "When the mob governs, man is ruled by ignorance; when the church governs, he is ruled by superstition; and when the state governs, he is ruled by fear. Before men can live together in harmony and understanding, ignorance must be transmuted into wisdom, superstition into an illuminated faith, and fear into love."
   ],
   "George Orwell": [
     "The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
@@ -400,14 +401,18 @@ module.exports = {
   ],
   "Adolf Hitler": [
     "Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live.",
-    "It also gives us a very special, secret pleasure to see how unaware the people around us are of what is really happening to them."
+    "It also gives us a very special, secret pleasure to see how unaware the people around us are of what is really happening to them.",
+    "The most precious possession you have in the world is your own people. And for this people, and for the sake of this people, we will struggle and fight, and never slacken, never tire, never lose courage, and never lose faith."
   ],
   "Tacitus": [
     "They make slaughter and they call it peace.",
     "The more corrupt the state, the more numerous the laws."
   ],
   "Hunter S. Thompson": [
-    "All political power comes from the barrel of either guns, pussy, or opium pipes, and people seem to like it that way."
+    "All political power comes from the barrel of either guns, pussy, or opium pipes, and people seem to like it that way.",
+    "The towers are gone now, reduced to bloody rubble, along with all hopes for peace in our time, in the U.S. or any other country. Make no mistake about it: we are at War now- with somebody- and we will stay at war with that strange and mysterious enemy for the rest of our lives. It will be a religious war, a sort of christian jihad,fueled by religious hatred and led by merciless fanatics on both sides. It will be guerrilla warfare on a global scale, with no front lines and no identifiable enemy. This is going to be an expensive war, and victory is not guaranteed-for anyone, and certainly not for a baffled little creep like George W. Bush. All he knows is that his father started a war a long time ago, and that he, the goofy child- president, has been chosen by fate and the global oil industry to finish it off. (Page 90. 'Hey Rube' letter dated September 12, 2001)",
+    "But beware of looking for goals: look for a way of life. Decide how you want to live and then see what you can do to make a living WITHIN that way of life.",
+    "The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over."
   ],
   "Aleksis kivi": [
     "Mä olen luopunut jo paljon enemmästä kuin kukaan muu.",
@@ -464,9 +469,6 @@ module.exports = {
   ],
   "Remy de Gourmont": [
     "Chastity is the most unnatural of the sexual perversions."
-  ],
-  "Hunter S Thompson": [
-    "But beware of looking for goals: look for a way of life. Decide how you want to live and then see what you can do to make a living WITHIN that way of life."
   ],
   "Robert Anton Wilson": [
     "We live in our myths, we only endure our realities.",
@@ -702,14 +704,14 @@ module.exports = {
     "Human beings seem to have an almost unlimited capacity to deceive themselves, and to deceive themselves into taking their own lies for truth.",
     "The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds."
   ],
-  "Albert Szent-Gyorgyi, Nobel Laureate in Medicine (1937)": [
-    "In every culture and in every medical tradition before ours, healing was accomplished by moving energy."
+  "Albert Szent-Gyorgyi": [
+    "In every culture and in every medical tradition before ours, healing was accomplished by moving energy. (Nobel Laureate in Medicine, 1937)"
   ],
   "M. C. Escher": [
     "We adore chaos because we love to produce order."
   ],
-  "Dr. Linus Pauling, two-time Nobel Prize winner": [
-    "You can trace every sickness, every disease, and every ailment to a mineral deficiency."
+  "Linus Pauling": [
+    "You can trace every sickness, every disease, and every ailment to a mineral deficiency. (Doctor, two-time Nobel Prize winner)"
   ],
   "Voltaire": [
     "Judge a man by his questions rather than his answers.",
@@ -738,9 +740,6 @@ module.exports = {
   ],
   "Timothy Leary": [
     "At one point consciousness-altering devices like the microscope and telescope were criminalized for exactly the same reasons that psychedelic plants were banned in later years. They allow us to peer into bits and zones of Chaos."
-  ],
-  "The late Dr Hunter S. Thompson": [
-    "The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over."
   ],
   "Lewis Carroll": [
     "Nothing would be what it is, Because everything would be what it isn´t. And contrary-wise - what it is, it wouldn´t be. And what it wouldn´t be, it would. You see? (Alice in Wonder land)",
@@ -776,9 +775,6 @@ module.exports = {
   "Bob Ross": [
     "You need dark in order to show light.",
     "Your mind will fill in what's left out."
-  ],
-  "Hunter S. Thompson, Page 90. 'Hey Rube' letter dated September 12, 2001": [
-    "The towers are gone now, reduced to bloody rubble, along with all hopes for peace in our time, in the U.S. or any other country. Make no mistake about it: we are at War now- with somebody- and we will stay at war with that strange and mysterious enemy for the rest of our lives. It will be a religious war, a sort of christian jihad,fueled by religious hatred and led by merciless fanatics on both sides. It will be guerrilla warfare on a global scale, with no front lines and no identifiable enemy. This is going to be an expensive war, and victory is not guaranteed-for anyone, and certainly not for a baffled little creep like George W. Bush. All he knows is that his father started a war a long time ago, and that he, the goofy child- president, has been chosen by fate and the global oil industry to finish it off"
   ],
   "Petronius": [
     "I believe that school makes complete fools of our young men, because they see and hear nothing of ordinary life there."
@@ -837,7 +833,7 @@ module.exports = {
     "If one meets a powerful person, ask them five questions: - What power have you got? - Where did you get it from? - In whose interests do you exercise it? - To whom are you accountable? - And how can we get rid of you? If you cannot get rid of the people who govern you, you do not live in a democratic system."
   ],
   "Scott Adams": [
-    "But if you are not experiencing mass hysteria, you might be totally confused by the actions of the people who are. They appear to be irrational, but in ways that are hard to define. You can’t tell if they are stupid, unscrupulous, ignorant, mentally ill, emotionally unstable or what. It just looks frickin’ crazy."
+    "But if you are not experiencing mass hysteria, you might be totally confused by the actions of the people who are. They appear to be irrational, but in ways that are hard to define. You can't tell if they are stupid, unscrupulous, ignorant, mentally ill, emotionally unstable or what. It just looks frickin’ crazy."
   ],
   "Henry Rollins": [
     "No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. Go."

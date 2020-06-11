@@ -4,8 +4,8 @@
   "description": "random-quote-api",
   "main": "index.js",
   "scripts": {
-		"dev": "nodemon index.js",
-		"start": "node index.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Fraasi/random-quote-api#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.1"
   }
 }
