@@ -784,8 +784,12 @@ module.exports = {
     "School is the advertising agency which makes you believe that you need the society as it is."
   ],
   "Terrence McKenna": [
-    "Psychedelics are illegal not because a loving Government is concerned that you might jump out of a third story window... Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is WRONG.",
-    "Ritual is a substitute for understanding."
+    "Psychedelics are illegal not because a loving Government is concerned that you might jump out of a third story window... Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.",
+    "Ritual is a substitute for understanding.",
+		"The cost of sanity in this society, is a certain level﻿ of alienation.",
+		"You are an explorer, and you represent our species, and the greatest good you can do is to bring back a new idea, because our world is endangered by the absence of good ideas. Our world is in crisis because of the absence of consciousness.",
+		"The syntactical nature of reality, the real secret of magic, is that the world is made of words. And if you know the words that the world is made of, you can make of it whatever you wish.",
+		"You have to take seriously the notion that understanding the universe is your responsibility, because the only understanding of the universe that will be useful to you is your own understanding."
   ],
   "Nikola Tesla": [
     "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.",
