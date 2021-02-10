@@ -669,7 +669,8 @@ module.exports = {
   "Henry David Thoreau": [
     "The price of anything is the amount of life you exchange for it.",
     "That government is best which governs least.",
-    "Things do not change; we change."
+    "Things do not change; we change.",
+    "It's not what you look at that matters, it's what you see."
   ],
   "Erno Paasilinna": [
     "Kun hallintokoneisto paisuu, se muodostaa yhteiskuntaluokan. Se ei enää palvele kansaa eikä siihen pyrikään. Virkakoneisto elää omaa elämäänsä ja kansan on palveltava sitä."
@@ -783,11 +784,12 @@ module.exports = {
     "School is the advertising agency which makes you believe that you need the society as it is."
   ],
   "Terrence McKenna": [
-    "Psychedelics are illegal not because a loving Government is concerned that you might jump out of a third story window... Psychedelics are illegal because they dissolve opinion structures and cuturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is WRONG."
+    "Psychedelics are illegal not because a loving Government is concerned that you might jump out of a third story window... Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is WRONG.",
+    "Ritual is a substitute for understanding."
   ],
   "Nikola Tesla": [
     "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.",
-    "Anti-social behaviour is a trait of intelligence in a  world full of conformists."
+    "Anti-social behaviour is a trait of intelligence in a world full of conformists."
   ],
   "Sherry L. Ackerman, Ph.D.": [
     "Nietzsche said that we were all Hyperboreans. I'd say that if our culture were any more alienated from Nature, he'd have been better advised to call us all Extraterrestrials. We are, frankly, so removed from Nature that it's hard to take seriously our claim to be a vital part of the planet."
