@@ -433,10 +433,6 @@ module.exports = {
   "Pema Chädrän": [
     "Dharma is the study of what IS, and the only way you can find out what is true is through studying yourself."
   ],
-  "Terence Mckenna": [
-    "Telepathy is you seeing what somebody else means.",
-    "The main thing to understand is that we are imprisoned in some kind of work of art."
-  ],
   "Quills, movie": [
     "Dr. Royer-Collard: I won't sully my hands with him. Marquis de Sade: Nor should you. That's the first rule of politics, isn't it? The man who drops the execution never drops the blade."
   ],
@@ -783,13 +779,16 @@ module.exports = {
   "Ivan Illich": [
     "School is the advertising agency which makes you believe that you need the society as it is."
   ],
-  "Terrence McKenna": [
+  "Terence Mckenna": [
+    "Telepathy is you seeing what somebody else means.",
+    "The main thing to understand is that we are imprisoned in some kind of work of art.",
     "Psychedelics are illegal not because a loving Government is concerned that you might jump out of a third story window... Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.",
     "Ritual is a substitute for understanding.",
-		"The cost of sanity in this society, is a certain level﻿ of alienation.",
+		"The cost of sanity in this society, is a certain level of alienation.",
 		"You are an explorer, and you represent our species, and the greatest good you can do is to bring back a new idea, because our world is endangered by the absence of good ideas. Our world is in crisis because of the absence of consciousness.",
 		"The syntactical nature of reality, the real secret of magic, is that the world is made of words. And if you know the words that the world is made of, you can make of it whatever you wish.",
-		"You have to take seriously the notion that understanding the universe is your responsibility, because the only understanding of the universe that will be useful to you is your own understanding."
+		"You have to take seriously the notion that understanding the universe is your responsibility, because the only understanding of the universe that will be useful to you is your own understanding.",
+    "We change in the precence of another person, you know, we create a persona and it takes alot of energy to maintain the persona."
   ],
   "Nikola Tesla": [
     "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.",
