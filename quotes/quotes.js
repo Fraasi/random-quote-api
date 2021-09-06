@@ -59,13 +59,14 @@ module.exports = {
     "When I picture a perfect reader, I always picture a monster of courage and curiosity, also something supple, cunning, cautious, a born adventurer and discoverer...",
     "Equality is a lie concocted by inferior people who arrange themselves in herds to overpower those who are naturally superior to them. The morality of 'equal rights' is a herd morality, and because it opposes the cultivation of superior individuals, it leads to the corruption of the human species.",
     "Why does man not see things as they are? — because he is himself standing in the way: he conceals things.",
-    "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who 'think alike than those who think differently."
+    "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who 'think alike than those who think differently.",
+    "Liberal institutions straightway cease from being liberal the moment they are soundly established: once this is attained no more grievous and more thorough enemies of freedom exist than liberal institutions."
   ],
   "Richard Wagner": [
     "It is not important whether man is descended from apes; it is much more important, that he does not return there."
   ],
-  "W.B. Clark, New York Times 1909": [
-    "Cancer was practically unknown until the cowpox vaccination began to be introduced... I have seen 200 cases of cancer, and never saw a case in an unvaccinated person."
+  "W.B. Clark": [
+    "Cancer was practically unknown until the cowpox vaccination began to be introduced... I have seen 200 cases of cancer, and never saw a case in an unvaccinated person. (New York Times 1909)"
   ],
   "Carl Gustav Jung": [
     "People will do anything, no matter how absurd, in order to avoid facing their own soul. One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
