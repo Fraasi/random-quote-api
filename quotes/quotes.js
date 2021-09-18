@@ -470,7 +470,11 @@ module.exports = {
   "Robert Anton Wilson": [
     "We live in our myths, we only endure our realities.",
     "On a planet that increasingly resembles one huge maximum security prison, the only intelligent choice is to plan a jail break.",
-    "There are periods of history when the visions of madmen and dope fiends are a better guide to reality than the common-sense interpretation of data available to the so-called normal mind. This is one such period, if you haven’t noticed already."
+    "There are periods of history when the visions of madmen and dope fiends are a better guide to reality than the common-sense interpretation of data available to the so-called normal mind. This is one such period, if you haven't noticed already.",
+    "Under the present brutal and primitive conditions on this planet, every person you meet should be regarded as one of the walking wounded. We have never seen a man or woman not slightly deranged by either anxiety or grief. We have never seen a totally sane human being.",
+    "If it's true that we are here to help others, then what exactly are the others here for?",
+    "We're all looking from the point of view of our own reality tunnels. And when we begin to realize that we're all looking from the point of view of our own reality tunnels, we find that it is much easier to understand where other people are coming from. All the ones who don't have the same reality tunnel as us do not seem ignorant, or deliberately perverse, or lying, or hypnotized by some mad ideology, they just have a different reality tunnel. And every reality tunnel might tell us something interesting about our world, if we're willing to listen.",
+    "The obedient always think of themselves as virtuous rather than cowardly."
   ],
   "Willhelm Reich": [
     "Nobody can recognize an emotion in others unless they've experienced it themselves."
@@ -915,5 +919,8 @@ module.exports = {
   ],
   "Norm Franz": [
     "Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants – but debt is the money of slaves."
+  ],
+  "Ralph Abraham": [
+    "You might as well toss a coin, you can't get where you're going on purpose."
   ]
 }
