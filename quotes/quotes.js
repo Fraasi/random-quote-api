@@ -118,7 +118,8 @@ module.exports = {
   "Aldous Huxley": [
     "The nature of the universe is such that ends can never justify the means. On the contrary, the means always determine the end.",
     "Technological progress has merely provided us with more efficient means for going backwards.",
-    "Most human beings have an almost infinite capacity for taking things for granted. That men do not learn very much from the lessons of history is the most important of all the lessons of history."
+    "Most human beings have an almost infinite capacity for taking things for granted. That men do not learn very much from the lessons of history is the most important of all the lessons of history.",
+    "The surest way to work up a crusade in favor of some good cause is to promise people they will have a chance of maltreating someone. To be able to destroy with good conscience, to be able to behave badly and call your bad behavior 'righteous indignation' — this is the height of *psychological luxury*, the most delicious of moral treats."
   ],
   "Jordan Maxwell ?": [
     "I may be foolish but certainly not a fool. Some would say I'm out of my mind while I say simply my mind is open."
@@ -201,8 +202,9 @@ module.exports = {
     "You can only have power over people so long as you don’t take everything away from them. But when you’ve robbed a man of everything he’s no longer in your power – he’s free again."
   ],
   "Confucius": [
-    "When you are angry, you cannot be correct. When you are frightened, you cannot be correct; when there is something you desire, you cannot be correct; when there is something you are anxious about, you cannot be correct. When the mind is not present, we look, but do not see. We listen, but do not hear, we eat, but don't taste our food. This is the meaning of \"the cultivation of the person lies in the correction of the mind.\"",
-    "Signs and symbols control the world, not phrases and laws."
+    "When you are angry, you cannot be correct. When you are frightened, you cannot be correct; when there is something you desire, you cannot be correct; when there is something you are anxious about, you cannot be correct. When the mind is not present, we look, but do not see. We listen, but do not hear, we eat, but don't taste our food. This is the meaning of 'the cultivation of the person lies in the correction of the mind.'",
+    "Signs and symbols control the world, not phrases and laws.",
+    "When words lose their meaning, people lose their freedom."
   ],
   "Michelangelo": [
     "What spirit is so empty and blind, that it cannot recognize the fact that the foot is more noble than the shoe, and skin more beautiful than the garment with which it is clothed?"
@@ -223,7 +225,10 @@ module.exports = {
   ],
   "George Orwell": [
     "The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
-    "Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'"
+    "Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'",
+    "Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously and accepting both of them.",
+    "Reality exists in the human mind, and nowhere else.",
+    "That the choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better."
   ],
   "Anonymous": [
     "Adulthood is only achieved when a person grasps the level of maturity necessary to allow their inner expressions to override external influences. An adult is someone who can achieve their own health, learning, happiness or bliss without needing to turn to external (artificial) stimulations to mimic such conditions",
@@ -235,8 +240,8 @@ module.exports = {
     "In the beginning… was the end.",
     "If you cant't change your mind, how do you know you have one?"
   ],
-  "USMC Brigadier General Smedley Butler": [
-    "After winning the Marine Corps Brevet Medal, the Army Distinguished Service Medal, the Navy Distinguished Service Medal, the French Order of the Black Star and TWO Congressional Medals of Honor, Butler said (as quoted in Common Sense magazine), \"I spent 33 years and four months in active service and during that period I spent most of my time as a high class muscle man for Big Business, for Wall Street and the bankers. In short, I was a racketeer, a gangster for capitalism. I helped make Mexico and especially Tampico safe for American oil interests in 1914. I helped make Haiti and Cuba a decent place for the National City Bank boys to collect revenues in. I helped in the raping of half a dozen Central American republics for the benefit of Wall Street. I helped purify Nicaragua for the International Banking House of Brown Brothers in 1902-1912. I brought light to the Dominican Republic for the American sugar interests in 1916. I helped make Honduras right for the American fruit companies in 1903. In China in 1927, I helped see to it that Standard Oil went on its way unmolested. Looking back on it, I might have given Al Capone a few hints. The best he could do was to operate his racket in three districts. I operated on three continents.\""
+  "Smedley Butler": [
+    "After winning the Marine Corps Brevet Medal, the Army Distinguished Service Medal, the Navy Distinguished Service Medal, the French Order of the Black Star and TWO Congressional Medals of Honor, Butler said (as quoted in Common Sense magazine), 'I spent 33 years and four months in active service and during that period I spent most of my time as a high class muscle man for Big Business, for Wall Street and the bankers. In short, I was a racketeer, a gangster for capitalism. I helped make Mexico and especially Tampico safe for American oil interests in 1914. I helped make Haiti and Cuba a decent place for the National City Bank boys to collect revenues in. I helped in the raping of half a dozen Central American republics for the benefit of Wall Street. I helped purify Nicaragua for the International Banking House of Brown Brothers in 1902-1912. I brought light to the Dominican Republic for the American sugar interests in 1916. I helped make Honduras right for the American fruit companies in 1903. In China in 1927, I helped see to it that Standard Oil went on its way unmolested. Looking back on it, I might have given Al Capone a few hints. The best he could do was to operate his racket in three districts. I operated on three continents.' (USMC Brigadier General)"
   ],
   "Moliere": [
     "Writing is like prostitution. First you do it for love, and then for a few close friends, and then for money."
@@ -829,7 +834,7 @@ module.exports = {
     "Everything the power of the world does is done in a circle. The sky is round, and I have heard that the earth is round like a ball, and so are all the stars. The wind, in its greatest power, whirls. Birds make their nests in circles, for theirs is the same religion as ours. The sun comes forth and goes down again in a circle. The moon does the same, and both are round. Even the seasons form a great circle in their changing, and always come back again to where they were. The life of a man is a circle from childhood to childhood, and so it is in everything where power moves. Our tipis are round like the nests of birds, and these are always set in a circle, the nation's hoop, a nest of many nests, where the Great Spirit meant for us to hatch our children. But the Wasichus have put us in square boxes. Our power is gone and we are dying, for the power is not in us any more."
   ],
   "John Waters": [
-    "If you go home with someone, and they don’t have any books, don’t fuck them."
+    "If you go home with someone, and they don't have any books, don't fuck them."
   ],
   "David Cain": [
     "Not making your bed in the morning sets the bar kind of low for the rest of the day.",
@@ -879,7 +884,8 @@ module.exports = {
     "Physicist are trained to investigate a problem before arriving at a decision. Lawyers, advertisers and others are trained to do exactly the opposite: to seek data to confirm a determination that has already been made."
   ],
   "William S. Burroughs": [
-    "A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on."
+    "A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on.",
+    "The program of the ruling elite in Orwell's 1984 was: 'A foot stamping on a human face forever!'. This is naive and optimistic. No species could survive for even a generation under such program. This is not a program of eternal, or even long-range dominance. It is clearly an extermination program."
   ],
   "Flemming Rose": [
     "If a believer demands that I, as a nonbeliever, observe his taboos in the public domain, he is not asking for my respect, but for my submission."
@@ -918,9 +924,12 @@ module.exports = {
     "Oikeuksia on jokaisella, mutta kenelläkään ei ole enää velvollisuuksia, vastuuta tai edes tervettä järkeä."
   ],
   "Norm Franz": [
-    "Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants – but debt is the money of slaves."
+    "Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants - but debt is the money of slaves. (Money & Wealth in the New Millennium: A Prophetic Guide to the New World Economic Order)"
   ],
   "Ralph Abraham": [
     "You might as well toss a coin, you can't get where you're going on purpose."
+  ],
+  "Jean Monnet": [
+    "People only accept change when they are faced with necessity, and only recognize necessity when a crisis is upon them."
   ]
 }
