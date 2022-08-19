@@ -540,7 +540,8 @@ module.exports = {
   ],
   "Charles Bukowski": [
     "There are worse things than being alone but it often takes decades to realize this and most often when you do it’s too late and there’s nothing worse than too late.",
-    "We don’t even ask happiness, just a little less pain."
+    "We don’t even ask happiness, just a little less pain.",
+    "The crowd is the gathering place of the weakest, true creation is a solitary act."
   ],
   "Lao Tzu": [
     "We join spokes together in a wheel, but it is the center hole that makes the wagon move. We shape clay into a pot, but it is the emptiness inside that holds whatever we want. We hammer wood for a house, but it is the inner space that makes it a home. We work with being, but non-being is what we use.",
@@ -931,5 +932,12 @@ module.exports = {
   ],
   "Jean Monnet": [
     "People only accept change when they are faced with necessity, and only recognize necessity when a crisis is upon them."
+  ],
+  "Marcus Aurelius": [
+    "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."
+  ],
+  "Christine Anderson": [
+    "In the entire history of mankind there has never been a political elite sincerely concerned about the wellbeing of regular people. What makes any of us think that it is different now? (Member Of European Parliament)",
+    "This vaccine campaign will go down as the biggest scandal in medical history, moreover, it will be known as the biggest crime ever committed on humanity. (Member Of European Parliament)"
   ]
 }
