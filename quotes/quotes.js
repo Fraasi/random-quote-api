@@ -71,7 +71,8 @@ module.exports = {
   "Carl Gustav Jung": [
     "People will do anything, no matter how absurd, in order to avoid facing their own soul. One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
     "Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible.",
-    "I am not what happened to me, I am what I choose to become."
+    "I am not what happened to me, I am what I choose to become.",
+    "If a man knows more than others he becomes lonely."
   ],
   "John Croft": [
     "Any culture that destroys its own life support systems and calls that progress is totally insane."
@@ -564,8 +565,8 @@ module.exports = {
   "Albert Schweitzer": [
     "At times, our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us"
   ],
-  "Bhikshuni Thubten Chodron author, Tibetan Buddhist nun, and founder of Sravasti Avvey": [
-    "In the ´70s, when we wandered up the hill to Kopan Monastery in Nepal in various states of drug- and alcohol-induced intoxication, we would ask Lama Yeshe, \"What do you think about drugs, alcohol, and meditation? They make us more relaxed so it’s easier to watch our breath, and our visualizations are so much more vivid when we’re stoned.\" Lama, looking at us with an expression that was quizzically serious, would say, \"You don’t need drugs, dear. You’re already hallucinating.\" Then, when we stopped laughing, he explained that intoxicants and meditation don’t go together. \"Intoxicants take you away from reality; meditation takes you toward reality. Which do you want? You are already intoxicated by ignorance, anger, and attachment and suffer as a result. Why do you want to take more intoxicants?"
+  "Bhikshuni Thubten Chodron": [
+    "In the '70s, when we wandered up the hill to Kopan Monastery in Nepal in various states of drug- and alcohol-induced intoxication, we would ask Lama Yeshe, 'What do you think about drugs, alcohol, and meditation? They make us more relaxed so it's easier to watch our breath, and our visualizations are so much more vivid when we're stoned.' Lama, looking at us with an expression that was quizzically serious, would say, 'You don't need drugs, dear. You're already hallucinating.' Then, when we stopped laughing, he explained that intoxicants and meditation don't go together. 'Intoxicants take you away from reality; meditation takes you toward reality. Which do you want? You are already intoxicated by ignorance, anger, and attachment and suffer as a result. Why do you want to take more intoxicants?' (author, Tibetan Buddhist nun, and founder of Sravasti Avvey)"
   ],
   "Casablanca, movie": [
     "Yvonne: Where were you last night? Rick: That's so long ago, I don't remember. Yvonne: Will I see you tonight? Rick: I never make plans that far ahead."
@@ -677,7 +678,8 @@ module.exports = {
     "The price of anything is the amount of life you exchange for it.",
     "That government is best which governs least.",
     "Things do not change; we change.",
-    "It's not what you look at that matters, it's what you see."
+    "It's not what you look at that matters, it's what you see.",
+    "Disobedience is the true foundation of liberty. The obedient must be slaves."
   ],
   "Erno Paasilinna": [
     "Kun hallintokoneisto paisuu, se muodostaa yhteiskuntaluokan. Se ei enää palvele kansaa eikä siihen pyrikään. Virkakoneisto elää omaa elämäänsä ja kansan on palveltava sitä."
@@ -829,7 +831,8 @@ module.exports = {
   "Mark Twain": [
     "If we are here to help the others, then what exactly are the others for?",
     "In religion and politics people’s beliefs and convictions are in almost every case gotten at second-hand, and without examination, from authorities who have not themselves examined the questions at issue but have taken them at second-hand from other non-examiners, whose opinions about them were not worth a brass farthing.",
-    "The history of our race, and each individual's experience, are sown thick with evidence that a truth is not hard to kill and that a lie told well is immortal."
+    "The history of our race, and each individual's experience, are sown thick with evidence that a truth is not hard to kill and that a lie told well is immortal.",
+    "It's much easier to fool people than it is to convince them they've been fooled."
   ],
   "Black Elk": [
     "Everything the power of the world does is done in a circle. The sky is round, and I have heard that the earth is round like a ball, and so are all the stars. The wind, in its greatest power, whirls. Birds make their nests in circles, for theirs is the same religion as ours. The sun comes forth and goes down again in a circle. The moon does the same, and both are round. Even the seasons form a great circle in their changing, and always come back again to where they were. The life of a man is a circle from childhood to childhood, and so it is in everything where power moves. Our tipis are round like the nests of birds, and these are always set in a circle, the nation's hoop, a nest of many nests, where the Great Spirit meant for us to hatch our children. But the Wasichus have put us in square boxes. Our power is gone and we are dying, for the power is not in us any more."
@@ -939,5 +942,17 @@ module.exports = {
   "Christine Anderson": [
     "In the entire history of mankind there has never been a political elite sincerely concerned about the wellbeing of regular people. What makes any of us think that it is different now? (Member Of European Parliament)",
     "This vaccine campaign will go down as the biggest scandal in medical history, moreover, it will be known as the biggest crime ever committed on humanity. (Member Of European Parliament)"
+  ],
+  "John Lennon": [
+    "Our society is run by insane people for insane objectives. I think we're being run by maniacs for maniacal ends and I think I'm liable to be put away as insane for expressing that. That's what's insane about it."
+  ],
+  "Blaise Pascal": [
+    "All of humanity's problems stem from man's inability to sit quietly in a room alone."
+  ],
+  "Ralph Waldo Emerson": [
+    "I dream of a better tomorrow, where chickens can cross the road and not be questioned about their motives."
+  ],
+  "Henry Kissinger": [
+    "The illegal we do immediately; The unconstitutional takes a little longer."
   ]
 }
