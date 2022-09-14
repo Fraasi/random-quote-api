@@ -1,35 +1,46 @@
 import quotes from "./quotes.js";
 
-function getRandomQuote(): { [key: string]: string } {
+type ResponseObj = {
+  author: string;
+  quotes?: string[];
+  quote?: string;
+};
+
+function getRandomQuote(): ResponseObj {
   const authors = Object.keys(quotes);
-  const random = authors[Math.floor(Math.random() * authors.length)];
-  const quoteArr = quotes[random];
-  const quote = quoteArr[Math.floor(Math.random() * quoteArr.length)];
-  const response = {
-    [random]: quote,
+  const randomAuthor = authors[Math.floor(Math.random() * authors.length)];
+  const quoteArr = quotes[randomAuthor];
+  const randomQuote = quoteArr[Math.floor(Math.random() * quoteArr.length)];
+  return {
+    author: randomAuthor,
+    quote: randomQuote,
   };
-  return response;
 }
 
 function getAllQuotes(): { [key: string]: string[] } {
   return quotes;
 }
 
-type Author = { [keys: string]: string[] };
-type Authors = Array<string>;
-type Auths = Author | Authors;
+type ResponseArr = Array<string>;
+type Response = ResponseObj | ResponseArr;
 
-function getAuthors(authors?: string): Auths {
-  if (!authors) return Object.keys(quotes).sort();
+function getAuthors(author?: string): Response {
+  if (author === undefined) return Object.keys(quotes).sort();
 
-  if (authors && quotes[authors] !== undefined)
+  const foundAuthor = Object.keys(quotes).find(
+    (key) => key.toLowerCase() === author.toLowerCase()
+  );
+  if (foundAuthor)
     return {
-      [authors]: quotes[authors],
+      author: foundAuthor,
+      quotes: quotes[foundAuthor],
     };
 
-  return Object.keys(quotes)
-    .filter((key) => key.toLowerCase().includes(authors.toLowerCase()))
+  const foundAuthors = Object.keys(quotes)
+    .filter((key) => key.toLowerCase().includes(author.toLowerCase()))
     .sort();
+
+  return foundAuthors;
 }
 
 export { getRandomQuote, getAllQuotes, getAuthors };

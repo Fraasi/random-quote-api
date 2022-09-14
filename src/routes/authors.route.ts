@@ -12,11 +12,7 @@ class AuthorsRoute implements Routes {
 
   private controller = (req: Request, res: Response, next: NextFunction) => {
     try {
-      if (req.params.authors) {
-        const authors = getAuthors(req.params.authors);
-        res.status(200).json(authors);
-      }
-      const authors = getAuthors();
+      const authors = getAuthors(req.params.author);
       res.status(200).json(authors);
     } catch (error) {
       next(error);
@@ -25,7 +21,7 @@ class AuthorsRoute implements Routes {
 
   private initializeRoutes() {
     this.router.get(`${this.path}`, this.controller);
-    this.router.get(`${this.path}/:authors`, this.controller);
+    this.router.get(`${this.path}/:author`, this.controller);
   }
 }
 
