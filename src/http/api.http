@@ -4,6 +4,10 @@
 GET http://localhost:3000
 
 ###
+# err url
+GET http://localhost:3000/sdf
+
+###
 # User Signup
 POST {{ baseURL }}/signup
 Content-Type: application/json
