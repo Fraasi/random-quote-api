@@ -15,4 +15,9 @@ function getAllQuotes(): { [key: string]: string[] } {
   return quotes;
 }
 
-export { getRandomQuote, getAllQuotes };
+function getAuthors(): string[] {
+  const authors = Object.keys(quotes);
+  return authors;
+}
+
+export { getRandomQuote, getAllQuotes, getAuthors };
