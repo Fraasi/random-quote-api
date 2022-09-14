@@ -1,5 +1,6 @@
 import { Router, Request, Response, NextFunction } from "express";
 import { Routes } from "@interfaces/routes.interface";
+import { getRandomQuote } from "../databases/mock";
 
 class IndexRoute implements Routes {
   public path = "/";
@@ -11,7 +12,8 @@ class IndexRoute implements Routes {
 
   private controller = (req: Request, res: Response, next: NextFunction) => {
     try {
-      res.status(200).json({ message: "message" });
+      const randomQuote = getRandomQuote();
+      res.status(200).json(randomQuote);
     } catch (error) {
       next(error);
     }
