@@ -18,10 +18,7 @@ module.exports = {
     "The bad news: There is no key to the universe. The good news: It was never locked.",
   ],
   "Chuck Close": ["Inspiration is for amateurs. I just get to work."],
-  "J. M. Barrie": ["I can’t sleep. (last words)"],
-  "Some old movie I forgot": [
-    "Peter: Don't be upset about the parachute, I'll have my wings soon anyway, big white ones. I hope it hasn't gone all modern, I'd hate to have a propeller instead of wings!",
-  ],
+  "J.M. Barrie": ["I can’t sleep. (last words)"],
   "Friedrich Nietzsche": [
     "Verily, I have often laughed at the weaklings who thought themselves good because they had no claws",
     "You have your way. I have my way. As for the right way, the correct way and the only way, it does not exist.",
@@ -97,10 +94,9 @@ module.exports = {
     "I believe in a long, prolonged, derangement of the senses in order to obtain the unknown.",
   ],
   "Ozzy Osbourne": ["Normal is what you know, you know."],
-  "Pierre Joseph Proudhon (General Idea of the Revolution in the Nineteenth Century)":
-    [
-      "To be GOVERNED is to be watched, inspected, spied upon, directed, law-driven, numbered, regulated, enrolled, indoctrinated, preached at, controlled, checked, estimated, valued, censured, commanded, by creatures who have neither the right nor the wisdom nor the virtue to do so. To be GOVERNED is to be at every operation, at every transaction noted, registered, counted, taxed, stamped, measured, numbered, assessed, licensed, authorized, admonished, prevented, forbidden, reformed, corrected, punished. It is, under pretext of public utility, and in the name of the general interest, to be placed under contribution, drilled, fleeced, exploited, monopolized, extorted from, squeezed, hoaxed, robbed; then, at the slightest resistance, the first word of complaint, to be repressed, fined, vilified, harassed, hunted down, abused, clubbed, disarmed, bound, choked, imprisoned, judged, condemned, shot, deported, sacrificed, sold, betrayed; and to crown all, mocked, ridiculed, derided, outraged, dishonored. That is government; that is its justice; that is its morality.",
-    ],
+  "Pierre Joseph Proudhon": [
+    "To be GOVERNED is to be watched, inspected, spied upon, directed, law-driven, numbered, regulated, enrolled, indoctrinated, preached at, controlled, checked, estimated, valued, censured, commanded, by creatures who have neither the right nor the wisdom nor the virtue to do so. To be GOVERNED is to be at every operation, at every transaction noted, registered, counted, taxed, stamped, measured, numbered, assessed, licensed, authorized, admonished, prevented, forbidden, reformed, corrected, punished. It is, under pretext of public utility, and in the name of the general interest, to be placed under contribution, drilled, fleeced, exploited, monopolized, extorted from, squeezed, hoaxed, robbed; then, at the slightest resistance, the first word of complaint, to be repressed, fined, vilified, harassed, hunted down, abused, clubbed, disarmed, bound, choked, imprisoned, judged, condemned, shot, deported, sacrificed, sold, betrayed; and to crown all, mocked, ridiculed, derided, outraged, dishonored. That is government; that is its justice; that is its morality. (General Idea of the Revolution in the Nineteenth Century)",
+  ],
   "Eric Hoffer": [
     "What monstrosities would walk the streets were some people's faces as unfinished as their minds.",
   ],
@@ -115,9 +111,6 @@ module.exports = {
   ],
   "Nicolo Machiavelli": [
     "Men rise from one ambition to another. First they seek to secure themselves from attack, and then they attack others.",
-  ],
-  "Josef Goebbels": [
-    "If the day should ever come when the Nazis must go, if some day we are compelled to leave the scene of history, we will slam the door so hard that the universe will shake and mankind will stand back in stupification.",
   ],
   "George Bernard Shaw": [
     "If you are going to tell people the truth, you’d better make them laugh. Otherwise they’ll kill you.",
@@ -220,6 +213,10 @@ module.exports = {
     "That the choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better.",
   ],
   Anonymous: [
+    "Everything you know is wrong.",
+    "I would rather be a soldier in a garden, than a gardener in a war.",
+    "Ante omnia Punctum exstitit… Before all things were, there was a Point. (18th century ‘Le Mystere de la Croix’)",
+    "If there is a God he will have to beg for my forgiveness. (Carved into the walls by an Auschwitz prisoner)",
     "Adulthood is only achieved when a person grasps the level of maturity necessary to allow their inner expressions to override external influences. An adult is someone who can achieve their own health, learning, happiness or bliss without needing to turn to external (artificial) stimulations to mimic such conditions",
     "If you want to know your past - look into your present conditions. If you want to know your future - look into your present actions.",
     "Reality is a thin line between denial and paranoia.",
@@ -257,11 +254,8 @@ module.exports = {
     "The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism - ownership of government by an individual, by a group or by any controlling private power.",
     "They (who) seek to establish systems of government based on the regimentation of all human beings by a handful of individual rulers... Call this a New Order. It is not new and it is not order.",
   ],
-  "Joseph Goebbels, German Minister of Propaganda": [
-    "If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The lie can  be maintained only for such time as the State can shield the people from the political, economic and/or military consequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth is the greatest enemy of the State.",
-  ],
-  "Herman Goering at the Nuremberg trials ": [
-    "Of course the people don't want war. But after all, it's the leaders of the country who determine the policy, and it's always a simple matter to drag the people along whether it's a democracy, a fascist dictatorship, or a parliament, or a communist dictatorship. Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the pacifists for lack of patriotism, and exposing the country to greater danger.",
+  "Herman Goering": [
+    "Of course the people don't want war. But after all, it's the leaders of the country who determine the policy, and it's always a simple matter to drag the people along whether it's a democracy, a fascist dictatorship, or a parliament, or a communist dictatorship. Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the pacifists for lack of patriotism, and exposing the country to greater danger. (at the Nuremberg trials)",
   ],
   "Arthur Schopenhauer": [
     "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.",
@@ -380,8 +374,8 @@ module.exports = {
   Strindberg: [
     "My spirit has received in its uterus a tremendous outpouring of seed from Nietzsche, so that I feel as full as a pregnant bitch. He was my husband.",
   ],
-  "Lord Northcliffe, british press baron": [
-    "News is what someone, somewhere is trying to suppress, rest is just adverticing.",
+  "Lord Northcliffe": [
+    "News is what someone, somewhere is trying to suppress, rest is just adverticing. (british press baron)",
   ],
   "Adolf Hitler": [
     "Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live.",
@@ -414,20 +408,19 @@ module.exports = {
   "Pema Chädrän": [
     "Dharma is the study of what IS, and the only way you can find out what is true is through studying yourself.",
   ],
-  "Quills, movie": [
-    "Dr. Royer-Collard: I won't sully my hands with him. Marquis de Sade: Nor should you. That's the first rule of politics, isn't it? The man who drops the execution never drops the blade.",
+  Quills: [
+    "Dr. Royer-Collard: I won't sully my hands with him. Marquis de Sade: Nor should you. That's the first rule of politics, isn't it? The man who drops the execution never drops the blade. (movie)",
   ],
   "Dave Mustaine": ["The pressure is like a truck parked on your balls."],
   "Neil Kramer": [
     "Humans are not unconscious and dim-witted by nature. Our impressive contemporary ignorance is the result of prolonged and invasive conditioning.",
   ],
   Morriperkele: ["Imagination is saving me from the world I despise."],
-  "H.L Mencken": [
+  "H.L. Mencken": [
     "When I mount the scaffold at last these will be my farewell words to the sheriff: Say what you will against me when I am gone, but don’t forget to add, in common justice, that I was never converted to anything.",
     "Equality before the law is probably forever inattainable. It is a noble ideal, but it can never be realized, for what men value in this world is not rights but privileges.",
     "The final test of truth is ridicule. Very few dogmas have ever faced it and survived. Huxley laughed the devils out of the Gadarene swine. Not the laws of the United States but the mother-in-law joke brought the Mormons to surrender. Not the horror of it but the absurdity of it killed the doctrine of infant damnation. But the razor edge of ridicule is turned by the tough hide of truth. How loudly the barber-surgeons laughed at Huxley—and how vainly! What clown ever brought down the house like Galileo? Or Columbus? Or Darwin? . . . They are laughing at Nietzsche yet . . .",
   ],
-  "Romans 3:23": ["For all have sinned and come short of the glory of God."],
   "Lewis Mumford": [
     "The most deadly criticism one could make of modern civilization is that apart from its man-made crises and catastrophes, [it] is not humanly interesting. . . . In the end, such a civilization can produce only a mass man: incapable of spontaneous, self-directed activities: at best patient, docile, disciplined to monotonous work to an almost pathetic degree. . . . Ultimately such a society produces only two groups of men: the conditioners and the conditioned, the active and passive barbarians. (1951)",
   ],
@@ -465,8 +458,8 @@ module.exports = {
   "Poppa Neutrino": [
     "You cannot stay silent all the time, you cannot remain silent, if you remain silent, you will be rejected by life, and imprisoned.",
   ],
-  "Probably by Francis Phillip Wernig, using the pseudonym Alan Ashley-Pitt": [
-    "The one who follows the crowd will usually get no further than the crowd. The one who walks alone, is likely to find himself in places no one has ever been.",
+  "Alan Ashley-Pitt": [
+    "The one who follows the crowd will usually get no further than the crowd. The one who walks alone, is likely to find himself in places no one has ever been. (Probably by Francis Phillip Wernig, using the pseudonym Alan Ashley-Pitt",
   ],
   "Charlie Chaplin": [
     "What do you want a meaning for? Life is a desire, not a meaning.",
@@ -487,9 +480,6 @@ module.exports = {
   "C.S. Lewis": [
     "To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one ... Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.",
     "Deny it food and it will gobble poison.",
-  ],
-  "Carved into the walls by an Auschwitz prisoner": [
-    "If there is a God he will have to beg for my forgiveness.",
   ],
   "Mayan saying": ["Love is action. All else is reaction."],
   "Paul Stamets": ["Nature will reward those people who respect nature."],
@@ -606,10 +596,6 @@ module.exports = {
   "I Ching": [
     "When the way comes to an end, then change. Having changed, you pass through.",
   ],
-  "Seen on a poster in NY around 1998": ["Everything you know is wrong."],
-  "Anonymous Soldier": [
-    "I would rather be a soldier in a garden, than a gardener in a war.",
-  ],
   Bodhidharma: [
     "Regardless of what we do, our karma has no hold on us.",
     "At every moment where language can't go, that is your mind.",
@@ -663,7 +649,7 @@ module.exports = {
   "Albert Szent-Gyorgyi": [
     "In every culture and in every medical tradition before ours, healing was accomplished by moving energy. (Nobel Laureate in Medicine, 1937)",
   ],
-  "M. C. Escher": ["We adore chaos because we love to produce order."],
+  "M.C. Escher": ["We adore chaos because we love to produce order."],
   "Linus Pauling": [
     "You can trace every sickness, every disease, and every ailment to a mineral deficiency. (Doctor, two-time Nobel Prize winner)",
   ],
@@ -745,9 +731,6 @@ module.exports = {
   "Terry Gilliam": [
     "I've given up asking questions. l merely float on a tsunami of acceptance of anything life throws at me... and marvel stupidly.",
   ],
-  "Anonymous, 18th century ‘Le Mystere de la Croix’": [
-    "Ante omnia Punctum exstitit… Before all things were, there was a Point.",
-  ],
   "William Binney": [
     "When a bill is passed, it is often not giving anyone the powers to do anything different, but rather is legalizing what currently happens.",
   ],
@@ -802,6 +785,7 @@ module.exports = {
   Bible: [
     "They reel to and fro, and stagger like a drunken man, and are at their wits' end. (Psalm 107:27)",
     "The earth shall reel to and fro like a drunkard. (Isaiah 24:20)",
+    "For all have sinned and come short of the glory of God. (Romans 3:23)",
     "Give liquor to someone who is perishing, and wine to someone who is deeply depressed. Let him drink, forget his poverty, and remember his troubles no more. (Proverbs 31:6-7)",
     "Believeth all things. (1 Corinthians 13:7)",
     "Ja Herra hajottaa sinut kaikkien kansojen sekaan maan äärestä toiseen ja sinä palvelet siellä muita jumalia, joita sinä et tunne ja joita sinun isäsi eivät tunteneet, puuta ja kiveä. Ja niiden kansojen seassa sinä et saa rauhaa, eikä jalkasi löydä lepopaikkaa. Herra antaa sinulle siellä vapisevan sydämen, rauenneet silmät ja nääntyvän sielun. Ja sinun elämäsi näyttää sinusta olevan hiuskarvan varassa, yöt ja päivät sinä olet pelon vallassa etkä ole varma hengestäsi. Aamulla sinä sanot: ‘Jospa olisi ilta!’ ja illalla sanot: ‘Jospa olisi aamu!’ -sellaista pelkoa tunnet sydämessäsi ja sellaisia näkyjä sinä näet silmissäsi. (5 Moos 28:64-67:)",
@@ -838,6 +822,8 @@ module.exports = {
   ],
   "Joseph Goebbels": [
     "Humanity would sink into eternal darkness, it would fall into a dull and primitive state, were the jews to win this war.",
+    "If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The lie can  be maintained only for such time as the State can shield the people from the political, economic and/or military consequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth is the greatest enemy of the State.",
+    "If the day should ever come when the Nazis must go, if some day we are compelled to leave the scene of history, we will slam the door so hard that the universe will shake and mankind will stand back in stupification.",
   ],
   "Claudia Pavonis": ["We didn't invent the wheel, the wheel invented us."],
   "Alexander Shulgin": [

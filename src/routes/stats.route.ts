@@ -1,8 +1,9 @@
 import { Router, Request, Response, NextFunction } from "express";
 import { Routes } from "@interfaces/routes.interface";
+import { getStats } from "../databases/mock";
 
-class HelpRoute implements Routes {
-  public path = "/help";
+class StatsRoute implements Routes {
+  public path = "/stats";
   public router = Router();
 
   constructor() {
@@ -11,14 +12,8 @@ class HelpRoute implements Routes {
 
   private controller(req: Request, res: Response, next: NextFunction) {
     try {
-      res.status(200).send(`
-        / - get a random quote<br>
-        /all - get all quotes<br>
-        /authors - get list of authors<br>
-        /authors/abc - search/get all quotes by abc<br>
-        /stats - get some statistics about database<br>
-        /help - this endpoint help<br>
-      `);
+      const stats = getStats();
+      res.status(200).json(stats);
     } catch (error) {
       next(error);
     }
@@ -29,4 +24,4 @@ class HelpRoute implements Routes {
   }
 }
 
-export default HelpRoute;
+export default StatsRoute;

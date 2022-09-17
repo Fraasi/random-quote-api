@@ -43,4 +43,37 @@ function getAuthors(author?: string): Response {
   return foundAuthors;
 }
 
-export { getRandomQuote, getAllQuotes, getAuthors };
+interface PerAuthor {
+  [key: string]: number;
+}
+
+interface Stats {
+  authors: number;
+  quotes: number;
+  quotesPerAuthor: PerAuthor;
+}
+
+function getStats(): Stats {
+  const authorsArray = Object.keys(quotes);
+  let totalQuotes = 0;
+
+  const quotesCounted: PerAuthor = authorsArray.reduce((prev, curr) => {
+    const quotesNum = quotes[curr].length;
+    totalQuotes += quotesNum;
+    prev[curr] = quotesNum;
+    return prev;
+  }, {});
+
+  const quotesCountedSorted: Array<[string, number]> = Object.entries(
+    quotesCounted
+  ).sort(([, v1], [, v2]) => v2 - v1);
+  const quotesPerAuthor = Object.fromEntries(quotesCountedSorted);
+
+  return {
+    authors: authorsArray.length,
+    quotes: totalQuotes,
+    quotesPerAuthor,
+  };
+}
+
+export { getRandomQuote, getAllQuotes, getAuthors, getStats };
