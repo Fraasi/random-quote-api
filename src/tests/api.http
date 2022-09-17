@@ -1,0 +1,44 @@
+# Variables
+@baseURL = http://localhost:3000
+
+###
+# Get random quote
+GET http://localhost:3000
+
+###
+# Get all
+GET http://localhost:3000/all
+
+###
+# Get stats
+GET http://localhost:3000/stats
+
+###
+# Get all authors
+GET http://localhost:3000/authors
+
+###
+# Get existing author
+GET http://localhost:3000/authors/Chuck Close
+
+###
+# Get non existing author
+GET http://localhost:3000/authors/Chuck Open
+
+###
+# Get search for an author
+GET http://localhost:3000/authors/Chuck
+
+###
+# Get error url
+GET http://localhost:3000/sdf
+
+###
+# User Signup example
+POST {{ baseURL }}/signup
+Content-Type: application/json
+
+{
+    "email": "example@email.com",
+    "password": "password"
+}

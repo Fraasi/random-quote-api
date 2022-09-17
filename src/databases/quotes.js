@@ -18,7 +18,7 @@ module.exports = {
     "The bad news: There is no key to the universe. The good news: It was never locked.",
   ],
   "Chuck Close": ["Inspiration is for amateurs. I just get to work."],
-  "J. M. Barrie (last words)": ["I can’t sleep"],
+  "J. M. Barrie": ["I can’t sleep. (last words)"],
   "Some old movie I forgot": [
     "Peter: Don't be upset about the parachute, I'll have my wings soon anyway, big white ones. I hope it hasn't gone all modern, I'd hate to have a propeller instead of wings!",
   ],
@@ -169,24 +169,23 @@ module.exports = {
     "All the war propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting.",
     "He who controls the past, controls the future. He who controls the present, controls the past.",
   ],
-  "Heinrich Heine, 1821": [
-    "Where they have burned books, they will end in burning human beings.",
+  "Heinrich Heine": [
+    "Where they have burned books, they will end in burning human beings. (1821)",
   ],
   "Peter O'Toole": [
     "When did I realize I was God? Well, I was praying and I suddenly realized I was talking to myself.",
   ],
-  "The Duke of Brunswick (Grand Master of World Freemasonry, 1700s)": [
-    "I have been convinced that we, as an Order, have come under the power of some very evil occult Order, profoundly versed in science both occult and otherwise, though not infallible, their methods being BLACK MAGIC, that is to say, electro-magnetic power, hypnotism and powerful suggestion. We are convinced that the Order is being controlled by some Sun Order, after the nature of the Illuminati, if not by that Order itself.",
+  "The Duke of Brunswick": [
+    "I have been convinced that we, as an Order, have come under the power of some very evil occult Order, profoundly versed in science both occult and otherwise, though not infallible, their methods being BLACK MAGIC, that is to say, electro-magnetic power, hypnotism and powerful suggestion. We are convinced that the Order is being controlled by some Sun Order, after the nature of the Illuminati, if not by that Order itself. (Grand Master of World Freemasonry, 1700s)",
   ],
-  "Guiseppe Mazzini (Head of the Bavarian Illuminati 1800s. Successor to Weishaupt)":
-    [
-      "We form an association of brothers in all points of the globe…Yet there is one unseen that can hardly be felt, yet it weighs on us. Whence comes it? Where is it? No one knows…or at least no one tells. This association is secret even to us the veterans of the Secret Societies",
-    ],
+  "Guiseppe Mazzini": [
+    "We form an association of brothers in all points of the globe…Yet there is one unseen that can hardly be felt, yet it weighs on us. Whence comes it? Where is it? No one knows…or at least no one tells. This association is secret even to us the veterans of the Secret Societies. (Head of the Bavarian Illuminati 1800s. Successor to Weishaupt)",
+  ],
   "Native American Legend": [
     'In a Native American parable, the Creator gathers all the animals and says: "I want to hide something from humans until they are ready for it - the realization that they create their own reality - " "Give it to me. I\'ll fly it to the moon," says the eagle. "No, one day soon they will go there and find it." "How about the bottom of the ocean?" asks the salmon. "No, they will find it there too." "I will bury it in the great plains," says the buffalo. "They will soon dig and find it there." "Put it inside them," says the wise grandmother mole. "Done,"says the Creator. "It is the last place they will look."',
   ],
-  "Thomas Cardinal Wolsey (1471-1530)": [
-    "Be very, very careful what you put into that head, because you will never, ever get it out.",
+  "Thomas Cardinal Wolsey": [
+    "Be very, very careful what you put into that head, because you will never, ever get it out. (1471-1530)",
   ],
   "Aleksandr Solzhenitsyn": [
     "You can only have power over people so long as you don’t take everything away from them. But when you’ve robbed a man of everything he’s no longer in your power – he’s free again.",
@@ -273,18 +272,15 @@ module.exports = {
   "James Baldwin": [
     "People who shut their eyes to reality simply invite their own destruction, and anyone who insists on remaining in a state of innocence long after that innocence is dead turns  himself into a monster.",
   ],
-  "James Madison, Political Observations, 1795": [
-    "Of all the enemies to public liberty war is, perhaps, the most to be dreaded because it comprises and develops the germ of every other. War is the parent of armies; from these proceed debts and taxes...known instruments for bringing the many under the domination of the few... No nation could preserve its freedom in the midst of continual warfare.",
-  ],
-  "Jer 50:2": [
-    "Declare ye among the nations, and publish, and set up a standard; publish, and conceal not...",
+  "James Madison": [
+    "Of all the enemies to public liberty war is, perhaps, the most to be dreaded because it comprises and develops the germ of every other. War is the parent of armies; from these proceed debts and taxes...known instruments for bringing the many under the domination of the few... No nation could preserve its freedom in the midst of continual warfare. (Political Observations, 1795)",
   ],
   Goethe: [
     "None are more hopelessly enslaved than those who falsely believe they are free.",
   ],
   "Honore de Balzac": ["Behind every great fortune lies a great crime."],
   "Brendan Behan": ["The terrorist is the one with the small bomb"],
-  "W. C. Fields": [
+  "W.C. Fields": [
     "Attitude is more important than the past, than education, than money, than circumstances, than what people do or say. It is more important than appearance, giftedness, or skill.",
     "Hell, I never vote for anybody, I always vote against.",
     "I drink therefore I am.",
@@ -294,7 +290,7 @@ module.exports = {
     "It ain't what they call you, it's what you answer to.",
     "Goddamn the whole friggin' world but you, Carlotta! (last words)",
   ],
-  "H. G. Wells": [
+  "H.G. Wells": [
     "Go away. I'm all right. (Last words)",
     "It is a law of nature we overlook, that intellectual versatility is the compensation for change, danger, and trouble. An animal perfectly in harmony with its environment is a perfect mechanism. Nature never appeals to intelligence until habit and instinct are useless. There is no intelligence where there is no change and no need of change. Only those animals partake of intelligence that have to meet a huge variety of needs and dangers.",
   ],
@@ -313,9 +309,6 @@ module.exports = {
   ],
   'Robert N. explaining why he has already managed to break the previous night’s promise of "I’ll never get this drunk again"':
     ["See, that’s the problem. I get so drunk I always forget I said it."],
-  "Uncle Tom breaking out philosophy and the first beer of the morning": [
-    "If you don’t drink in the morning, you can’t be drunk all day.",
-  ],
   "Robert G. eschewing the philosophical for the practical": [
     "The optimist sees the glass half full. The pessimist sees the glass half empty. The drunk says, 'Are you gonna drink that'?",
   ],
@@ -342,8 +335,8 @@ module.exports = {
   Ramtha: [
     "So we have consciousness and energy and a brain, and the resulting pattern is called mind. And mind is as vast as it perceives itself to be or as small as it perceives itself to be. If the mind gets so lofty that it feels alienated by the crippled reality around it, it will not operate here anymore; it will be beyond it. And that is what Christ was all about.",
   ],
-  "Allan Sherman, 1973": [
-    "The Truth will be phased out of our society, almost unnoticed, in less than a generation. It will become a curio like the two-dollar bill. Probably, there will be museums where samples of The Truth will be displayed for the benefit of curious children who want to know what it was like. One can only hope that the curators of these Truth Museums will have the good taste not to fake the exhibits.",
+  "Allan Sherman": [
+    "The Truth will be phased out of our society, almost unnoticed, in less than a generation. It will become a curio like the two-dollar bill. Probably, there will be museums where samples of The Truth will be displayed for the benefit of curious children who want to know what it was like. One can only hope that the curators of these Truth Museums will have the good taste not to fake the exhibits. (1973)",
   ],
   "Freeman Fly": [
     "I read all the books, but I believe in a lot more than most.",
@@ -365,14 +358,14 @@ module.exports = {
   "Libbre David 37": [
     "To communicate anything to a Goy about our religious relations would be equal to the killing of all Jews, for if the Goyim knew what we teach about them, they would kill us openly.",
   ],
-  "Szaaloth-Utszabot, The Book of Jore Dia 17": [
-    "A Jew should and must make a false oath when the Goyim asks if our books contain anything against them.",
+  "Szaaloth-Utszabot": [
+    "A Jew should and must make a false oath when the Goyim asks if our books contain anything against them. (The Book of Jore Dia 17)",
   ],
-  "Tosefta, Aboda Zara, VIII, 5": [
-    "If a goy killed a goy or a Jew he is responsible, but if a Jew killed a goy he is not responsible.",
+  Tosefta: [
+    "If a goy killed a goy or a Jew he is responsible, but if a Jew killed a goy he is not responsible. (Aboda Zara, VIII, 5)",
   ],
-  "Midrasch Talpioth, p. 225-L": [
-    "Jehovah created the non-Jew in human form so that the Jew would not have to be served by beasts. The non-Jew is consequently an animal in human form, and condemned to serve the Jew day and night.",
+  "Midrasch Talpioth": [
+    "Jehovah created the non-Jew in human form so that the Jew would not have to be served by beasts. The non-Jew is consequently an animal in human form, and condemned to serve the Jew day and night. (p. 225-L)",
   ],
   "Charles Baudelaire": [
     "Evil is committed without effort, naturally, fatally; goodness is always the product of some art.",
@@ -519,8 +512,8 @@ module.exports = {
     "Don’t vote, it encourages them.",
     "The desire to be a politician should bar you for life from ever being one.",
   ],
-  "Chuck Palahniuk, Diaries": [
-    "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.",
+  "Chuck Palahniuk": [
+    "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace. (Diaries)",
   ],
   "Thich Nhat Hanh": [
     "When another person makes you suffer, it is because he suffers deeply within himself, and his suffering is spilling over. He does not need punishment; he needs help. That's the message he is sending.",
@@ -651,8 +644,8 @@ module.exports = {
   "Joseph Mengele": [
     "The more we do to you, the less you seem to believe we are doing it.",
   ],
-  "Jay Gould (1886)": [
-    "I can hire half of the working class to kill the other half.",
+  "Jay Gould": [
+    "I can hire half of the working class to kill the other half. (1886)",
   ],
   "Markku Lahtela": [
     "Kenenkään ei ole toteltava ketään. Mutta kaikkien on otettava toisensa huomioon.",
@@ -662,7 +655,7 @@ module.exports = {
     "Fascism should more properly be called corporatism, since it is the marriage of government and corporate power.",
   ],
   "Charlie Parker": ["If you don't live it, it won't come out your horn."],
-  "R. D. Laing": [
+  "R.D. Laing": [
     "Insanity -- a perfectly rational adjustment to an insane world.",
     "Human beings seem to have an almost unlimited capacity to deceive themselves, and to deceive themselves into taking their own lies for truth.",
     "The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.",
@@ -812,6 +805,7 @@ module.exports = {
     "Give liquor to someone who is perishing, and wine to someone who is deeply depressed. Let him drink, forget his poverty, and remember his troubles no more. (Proverbs 31:6-7)",
     "Believeth all things. (1 Corinthians 13:7)",
     "Ja Herra hajottaa sinut kaikkien kansojen sekaan maan äärestä toiseen ja sinä palvelet siellä muita jumalia, joita sinä et tunne ja joita sinun isäsi eivät tunteneet, puuta ja kiveä. Ja niiden kansojen seassa sinä et saa rauhaa, eikä jalkasi löydä lepopaikkaa. Herra antaa sinulle siellä vapisevan sydämen, rauenneet silmät ja nääntyvän sielun. Ja sinun elämäsi näyttää sinusta olevan hiuskarvan varassa, yöt ja päivät sinä olet pelon vallassa etkä ole varma hengestäsi. Aamulla sinä sanot: ‘Jospa olisi ilta!’ ja illalla sanot: ‘Jospa olisi aamu!’ -sellaista pelkoa tunnet sydämessäsi ja sellaisia näkyjä sinä näet silmissäsi. (5 Moos 28:64-67:)",
+    "Declare ye among the nations, and publish, and set up a standard; publish, and conceal not... (Jer 50:2)",
   ],
   "Josef Stalin": [
     "Divide the world into regional groups as a transitional stage to world government. Populations will more readily abandon their national loyalty to a vague regional loyalty than they will for a world authority. Later the regions can be brought together all the way into a single world dictatorship.",
