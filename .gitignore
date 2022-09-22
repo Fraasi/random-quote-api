@@ -1,6 +1,5 @@
 node_modules/
-quotes_data.js
-requote.js
+dist/
 
 # dotenv environment variable files
 .env

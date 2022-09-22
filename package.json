@@ -1,12 +1,11 @@
 {
   "name": "random-quote-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "random-quote-api",
-  "main": "index.js",
   "scripts": {
     "start": "npm run build && cross-env NODE_ENV=production node dist/server.js",
     "dev": "cross-env NODE_ENV=development nodemon",
-    "build": "vite src -d dist --source-maps --copy-files",
+    "build": "swc src -d dist --source-maps --copy-files",
     "build:tsc": "tsc && tsc-alias",
     "test": "jest --forceExit --detectOpenHandles",
     "lint": "eslint --ignore-path .gitignore --ext .ts src/",
@@ -32,6 +31,8 @@
     "mongoose": "^6.5.0"
   },
   "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.3.2",
     "@types/bcrypt": "^5.0.0",
     "@types/express": "^4.17.13",
     "@types/jest": "^28.1.6",

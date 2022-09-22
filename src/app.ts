@@ -1,8 +1,8 @@
 import express from "express";
 import helmet from "helmet";
-import { connect, set } from "mongoose";
+// import { connect, set } from "mongoose";
 import { NODE_ENV, PORT, ORIGIN, CREDENTIALS } from "@config";
-import { dbConnection } from "@databases";
+// import { dbConnection } from "@databases";
 import { Routes } from "@interfaces/routes.interface";
 import errorMiddleware from "./middlewares/error.middleware";
 
@@ -34,13 +34,13 @@ class App {
     return this.app;
   }
 
-  private connectToDatabase() {
-    if (this.env !== "production") {
-      set("debug", true);
-    }
+  // private connectToDatabase() {
+  //   if (this.env !== "production") {
+  //     set("debug", true);
+  //   }
 
-    connect(dbConnection.url, dbConnection.options);
-  }
+  //   connect(dbConnection.url, dbConnection.options);
+  // }
 
   private initializeMiddlewares() {
     this.app.use(helmet());
