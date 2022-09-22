@@ -1,6 +1,6 @@
 import { Router, Request, Response, NextFunction } from "express";
 import { Routes } from "@interfaces/routes.interface";
-import { getAllQuotes } from "../databases/mock";
+import { getAllQuotes } from "../databases/mockDB";
 
 class AllRoute implements Routes {
   public path = "/all";

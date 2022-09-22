@@ -1,6 +1,6 @@
 import { Router, Request, Response, NextFunction } from "express";
 import { Routes } from "@interfaces/routes.interface";
-import { getStats } from "../databases/mock";
+import { getStats } from "../databases/mockDB";
 
 class StatsRoute implements Routes {
   public path = "/stats";

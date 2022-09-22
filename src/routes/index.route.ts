@@ -1,6 +1,6 @@
 import { Router, Request, Response, NextFunction } from "express";
 import { Routes } from "@interfaces/routes.interface";
-import { getRandomQuote } from "../databases/mock";
+import { getRandomQuote } from "../databases/mockDB";
 
 class IndexRoute implements Routes {
   public path = "/";
