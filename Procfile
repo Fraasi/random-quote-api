@@ -1,1 +1,1 @@
-web: node index.js $PORT
+web: node dist/server.js $PORT
