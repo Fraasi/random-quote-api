@@ -1,0 +1,107 @@
+openapi: 3.0.0
+paths:
+# [GET] random quote
+  /:
+    get:
+      tags:
+      - random quote
+      summary: Get a random quote
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+# [GET] authors
+  /authors:
+    get:
+      tags:
+      - random quote
+      summary: Get a list of all authors
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+# [GET] authors/name
+  /authors/{name}:
+    get:
+      tags:
+      - random quote
+      summary: Find author by name
+      parameters:
+      - name: name
+        in: path
+        description: Authors (partial) name
+        required: true
+      responses:
+        200:
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+# [GET] all
+  /all:
+    get:
+      tags:
+      - random quote
+      summary: Get everything
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+# [GET] stats
+  /stats:
+    get:
+      tags:
+      - random quote
+      summary: Get some statistics about database
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+# [POST] users
+    post:
+      summary: Add quote
+      parameters:
+      - name: body
+        in: body
+        description: quote
+        required: true
+        schema:
+          $ref: '#/definitions/newQuote'
+      responses:
+        201:
+          description: 'Created'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+# definitions
+definitions:
+  newQuote:
+    type: object
+    required:
+        - author
+        - quote
+    properties:
+      author:
+        type: string
+        description: name of author
+      quote:
+        type: string
+        description: quote
+
+schemes:
+ - https
+ - http
