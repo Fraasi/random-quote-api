@@ -1,7 +1,8 @@
 import express from "express";
+import cors from "cors";
 import helmet from "helmet";
 // import { connect, set } from "mongoose";
-import { NODE_ENV, PORT, ORIGIN, CREDENTIALS } from "@config";
+import { NODE_ENV, PORT } from "@config";
 // import { dbConnection } from "@databases";
 import swaggerJSDoc from "swagger-jsdoc";
 import swaggerUi from "swagger-ui-express";
@@ -67,6 +68,7 @@ class App {
   }
 
   private initializeMiddlewares() {
+    this.app.use(cors({ origin: "*" }));
     this.app.use(helmet());
     this.app.use(errorMiddleware);
     this.app.use(express.json());
