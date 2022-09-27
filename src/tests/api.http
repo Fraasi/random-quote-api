@@ -34,6 +34,9 @@ GET http://localhost:3000/authors/Chuck
 GET http://localhost:3000/sdf
 
 ###
+GET https://fra-rq.onrender.com/
+
+###
 # User Signup example
 POST {{ baseURL }}/signup
 Content-Type: application/json

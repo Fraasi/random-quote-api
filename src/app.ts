@@ -68,8 +68,14 @@ class App {
   }
 
   private initializeMiddlewares() {
-    this.app.use(cors({ origin: "*" }));
-    this.app.use(helmet());
+    this.app.use(cors({ origin: "*", credentials: false }));
+    this.app.use(
+      helmet({
+        crossOriginResourcePolicy: {
+          policy: "cross-origin",
+        },
+      })
+    );
     this.app.use(errorMiddleware);
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
