@@ -317,7 +317,7 @@ module.exports = {
     "I get loaded because it’s the only time I get to play with the monkey inside me. We all got one. And if we don’t play with him every now and then, he gets mad and tries to claw his way out.",
   ],
   "Andrew Rutajithee": [
-    '…there are more similarities, but that is not the direction I’m going here), many times you will see in a college graduation ceremony, the graduates wear all black (by the way, when you graduate, you wear a [Masonic] square mortar board on top of your head…this is a dramatization of certain African tribes who strapped wood boards to their heads and wore them for years as their heads grew… thus flattening the tops of their heads. It is a symbol for a cut off point to your learning…it says, "My [occult/mystic] education goes to ‘this’ level and no higher", whereas the pope wears a huge hat, his knowledge into the occult and the goings on behind the scenes goes pretty deep. His huge hat says the same thing that a Navaho Chief’s huge headband of feathers says: "I’m into some really deep thingsthat would blow your flat little mind, go back to your alcohol and amusement…pay no attention to me and my giant hat, you wouldn’t understand…that’s why you don’t have a hat like this, because it’s Over your head!"…or something like that.).',
+    '…there are more similarities, but that is not the direction I’m going here, many times you will see in a college graduation ceremony, the graduates wear all black, by the way, when you graduate, you wear a [Masonic] square mortar board on top of your head… this is a dramatization of certain African tribes who strapped wood boards to their heads and wore them for years as their heads grew… thus flattening the tops of their heads. It is a symbol for a cut off point to your learning… it says, "My [occult/mystic] education goes to ‘this’ level and no higher", whereas the pope wears a huge hat, his knowledge into the occult and the goings on behind the scenes goes pretty deep. His huge hat says the same thing that a Navaho Chief’s huge headband of feathers says: "I’m into some really deep things that would blow your flat little mind, go back to your alcohol and amusement… pay no attention to me and my giant hat, you wouldn’t understand…that’s why you don’t have a hat like this, because it’s Over your head!"… or something like that.',
   ],
   "Richard Brandler": [
     "When in doubt, black it out.",
@@ -425,7 +425,7 @@ module.exports = {
     "The most deadly criticism one could make of modern civilization is that apart from its man-made crises and catastrophes, [it] is not humanly interesting. . . . In the end, such a civilization can produce only a mass man: incapable of spontaneous, self-directed activities: at best patient, docile, disciplined to monotonous work to an almost pathetic degree. . . . Ultimately such a society produces only two groups of men: the conditioners and the conditioned, the active and passive barbarians. (1951)",
   ],
   "William Blake": [
-    "Those who restrain desire. do so because theirs is weak enough to be restrained.",
+    "Those who restrain desire do so because theirs is weak enough to be restrained.",
     "Go, love without the help of anything in this earth.",
     "I must Create a System. or be enslav'd by another Mans.",
     "When I tell any Truth it is not for the sake of Convincing those who do not know it but for the sake of defending those who Do.",
@@ -684,7 +684,7 @@ module.exports = {
     "“When I use a word,” Humpty Dumpty said, in rather a scornful tone, “it means just what I choose it to mean — neither more nor less.” “The question is,” said Alice, “whether you can make words mean so many different things.” “The question is,” said Humpty Dumpty, “which is to be master — that’s all.” (Through the Looking-Glass)",
   ],
   "Henry James": [
-    "We work in the dark. We do what we can. We give what we have. Our doubt is our passion, and our passion is our tas. The rest is the madness of art.",
+    "We work in the dark. We do what we can. We give what we have. Our doubt is our passion, and our passion is our task. The rest is the madness of art.",
   ],
   "Guy de Maupassant": [
     "We are accustomed to use our eyes only with the memory of what other people before us have thought about the object we are looking at.",
@@ -810,7 +810,7 @@ module.exports = {
   "Flemming Rose": [
     "If a believer demands that I, as a nonbeliever, observe his taboos in the public domain, he is not asking for my respect, but for my submission.",
   ],
-  "Alex Collier  ": ["The love that you withhold is the pain that you carry."],
+  "Alex Collier": ["The love that you withhold is the pain that you carry."],
   "Ian Williams Goddard": [
     "A society whose citizens refuse to see and investigate the facts, who refuse to believe that their government and their media will routinely lie to them and fabricate a reality contrary to verifiable facts. is a society that chooses and deserves the police state dictatorship it‘s going to get.",
   ],
