@@ -887,7 +887,7 @@ module.exports = {
   ],
   "Mandy Hale": [
     "Until you get comfortable with being alone, you’ll never know if you’re choosing someone out of love or loneliness.",
-	]
+	],
   "James Corbett": [
     "After all, if the Kings and Queens and Emperors and Pharaohs were not gods, or at least chosen by God, why would anyone listen to them? The difference between a regal king and a tinpot dictator disappears if the king's divinity is denied.",
 	"We must face a cold, hard reality: we are in the midst of WWIII, it is a war on free humanity by their own governments, it is being waged in secret, and it is a war in which the would-be world controllers have no compunction about doing anything—even modifying the weather and exacerbating ongoing emergencies—to increase their power over the people. Until we acknowledge that unpleasant truth, nothing can change.",
