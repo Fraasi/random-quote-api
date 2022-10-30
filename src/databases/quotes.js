@@ -17,8 +17,12 @@ module.exports = {
   "Swami Beyondananda": [
     "The bad news: There is no key to the universe. The good news: It was never locked.",
   ],
-  "Chuck Close": ["Inspiration is for amateurs. I just get to work."],
-  "J.M. Barrie": ["I can’t sleep. (last words)"],
+  "Chuck Close": [
+    "Inspiration is for amateurs. I just get to work."
+  ],
+  "J.M. Barrie": [
+    "I can’t sleep. (last words)"
+  ],
   "Friedrich Nietzsche": [
     "Verily, I have often laughed at the weaklings who thought themselves good because they had no claws",
     "You have your way. I have my way. As for the right way, the correct way and the only way, it does not exist.",
@@ -47,6 +51,7 @@ module.exports = {
     "Why does man not see things as they are? — because he is himself standing in the way: he conceals things.",
     "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who 'think alike than those who think differently.",
     "Liberal institutions straightway cease from being liberal the moment they are soundly established: once this is attained no more grievous and more thorough enemies of freedom exist than liberal institutions.",
+	"That which is ready to fall, shall ye also push!",
   ],
   "Richard Wagner": [
     "It is not important whether man is descended from apes; it is much more important, that he does not return there.",
@@ -105,6 +110,11 @@ module.exports = {
     "Technological progress has merely provided us with more efficient means for going backwards.",
     "Most human beings have an almost infinite capacity for taking things for granted. That men do not learn very much from the lessons of history is the most important of all the lessons of history.",
     "The surest way to work up a crusade in favor of some good cause is to promise people they will have a chance of maltreating someone. To be able to destroy with good conscience, to be able to behave badly and call your bad behavior 'righteous indignation' — this is the height of *psychological luxury*, the most delicious of moral treats.",
+	"Maybe this world is another planet’s hell.",
+	"In spite of language, in spite of intelligence and intuition and sympathy, one can never really communicate anything to anybody. The essential substance of every thought and feeling remains incommunicable, locked up in the impenetrable strong-room of the individual soul and body. Our life is a sentence of perpetual solitary confinement.",
+	"That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach.",
+	"There are things known and there are things unknown, and in between are the doors of perception.",
+	"The more powerful and original a mind, the more it will incline towards the religion of solitude.",
   ],
   "Jordan Maxwell ?": [
     "I may be foolish but certainly not a fool. Some would say I'm out of my mind while I say simply my mind is open.",
@@ -161,6 +171,13 @@ module.exports = {
   "Eric Arthur Blair": [
     "All the war propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting.",
     "He who controls the past, controls the future. He who controls the present, controls the past.",
+	"I remember saying once to Arthur Koestler, ‘History stopped in 1936’, at which he nodded in immediate understanding. We were both thinking of totalitarianism in general, but more particularly of the Spanish civil war. Early in life I have noticed that no event is ever correctly reported in a newspaper, but in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories; and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened. I saw, in fact, history being written not in terms of what happened but of what ought to have happened according to various ‘party lines’.",
+	"The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
+    "Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'",
+    "Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously and accepting both of them.",
+    "Reality exists in the human mind, and nowhere else.",
+    "That the choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better.",
+	"Writing a book is a horrible, exhausting struggle, like a long bout with some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand.",
   ],
   "Heinrich Heine": [
     "Where they have burned books, they will end in burning human beings. (1821)",
@@ -204,13 +221,6 @@ module.exports = {
     "In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed.",
     "It is impossible to enslave man merely by slaving his body. The mind also must be held, and to accomplish this, fear is the accepted weapon. The common man must fear life, fear death, fear god. fear the devil. and fear most the overlords, the keepers of his destiny.",
     "When the mob governs, man is ruled by ignorance; when the church governs, he is ruled by superstition; and when the state governs, he is ruled by fear. Before men can live together in harmony and understanding, ignorance must be transmuted into wisdom, superstition into an illuminated faith, and fear into love.",
-  ],
-  "George Orwell": [
-    "The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
-    "Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'",
-    "Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously and accepting both of them.",
-    "Reality exists in the human mind, and nowhere else.",
-    "That the choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better.",
   ],
   Anonymous: [
     "Everything you know is wrong.",
@@ -322,9 +332,6 @@ module.exports = {
   "Richard Brandler": [
     "When in doubt, black it out.",
     "Confusion is a doorway to a new understanding.",
-  ],
-  "Eric Blair": [
-    "I remember saying once to Arthur Koestler, ‘History stopped in 1936’, at which he nodded in immediate understanding. We were both thinking of totalitarianism in general, but more particularly of the Spanish civil war. Early in life I have noticed that no event is ever correctly reported in a newspaper, but in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories; and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened. I saw, in fact, history being written not in terms of what happened but of what ought to have happened according to various ‘party lines’.",
   ],
   Ramtha: [
     "So we have consciousness and energy and a brain, and the resulting pattern is called mind. And mind is as vast as it perceives itself to be or as small as it perceives itself to be. If the mind gets so lofty that it feels alienated by the crippled reality around it, it will not operate here anymore; it will be beyond it. And that is what Christ was all about.",
@@ -661,17 +668,14 @@ module.exports = {
   "Dmitry Orlov": [
     "Collapse will not be televised, you will not know that it has happened. You will only know that it has happened to you.",
   ],
-  "Oskari Juurikkala": [
-    "Kun mies vie toiselta auton, kyseessä on ryöstö. Kun saman tekee miesjoukko, puhutaan järjestäytyneestä rikollisuudesta. Kun joukko järjestää äänestyksen ja ottaa auton enemmistöpäätöksellä, sitä kutsutaan demokratiaksi.",
-  ],
   "Vernon Howard": [
     "When told that man lives in delusion everyone thinks of himself as the exception – hence his delusion.",
   ],
   "Cardinal Richelieu": [
     "Give me six lines written by the most honorable of men, and I will find an excuse in them to hang him.",
   ],
-  Hamlet: [
-    "Voisin elää pähkinänkuoreen suljettuna ja kuitenkin tuntea itseni äärettömien avaruuksien valtiaaksi, ellei näitä pahoja unia olisi.",
+  "William Shakespeare": [
+	"I could be bounded in a nutshell, and count myself a king of infinite space - were it not that I have bad dreams.",
   ],
   "Harry Crumb": [
     "I've been so thoroughly trained, I don't even have to think before I speak.",
@@ -869,4 +873,23 @@ module.exports = {
   "Henry Kissinger": [
     "The illegal we do immediately; The unconstitutional takes a little longer.",
   ],
+  "Fyodor Dostoevsky": [
+	"I say let the world go to hell, but I should always have my tea.",
+	"What is hell? I maintain that it is the suffering of being unable to love.",
+	"To go wrong in one's own way is better than to go right in someone else's.",
+	"Your worst sin is that you have destroyed and betrayed yourself for nothing.",
+  ],
+  "Ron Suskind": [
+	"We’re an empire now, and when we act, we create our own reality. And while you’re studying that reality – judiciously, as you will – we’ll act again, creating other new realities, which you can study too, and that’s how things will sort out. We’re history’s actors . . . and you, all of you, will be left to just study what we do.” (NYTimes Magazine, Oct. 17, 2004)"
+  ],
+  "Dietrich Bonhoeffer": [
+	"The person who loves their dream of community will destroy community, but the person who loves those around them will create community.",
+  ],
+  "Mandy Hale": [
+    "Until you get comfortable with being alone, you’ll never know if you’re choosing someone out of love or loneliness.",
+	]
+  "James Corbett": [
+    "After all, if the Kings and Queens and Emperors and Pharaohs were not gods, or at least chosen by God, why would anyone listen to them? The difference between a regal king and a tinpot dictator disappears if the king's divinity is denied.",
+	"We must face a cold, hard reality: we are in the midst of WWIII, it is a war on free humanity by their own governments, it is being waged in secret, and it is a war in which the would-be world controllers have no compunction about doing anything—even modifying the weather and exacerbating ongoing emergencies—to increase their power over the people. Until we acknowledge that unpleasant truth, nothing can change.",
+  ]
 };
