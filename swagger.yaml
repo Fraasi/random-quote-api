@@ -55,6 +55,25 @@ paths:
         500:
           description: 'Server Error'
 
+# [GET] search/searchterm
+  /search/{searchterm}:
+    get:
+      tags:
+      - random quote
+      summary: Search for a word in all quotes
+      parameters:
+      - name: searchterm
+        in: path
+        description: Searchterm
+        required: true
+      responses:
+        200:
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
 # [GET] stats
   /stats:
     get:

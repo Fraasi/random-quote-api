@@ -1,6 +1,6 @@
 {
   "name": "random-quote-api",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "random-quote-api",
   "scripts": {
     "start": "npm run build && cross-env NODE_ENV=production node dist/server.js",

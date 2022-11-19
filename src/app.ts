@@ -30,7 +30,7 @@ class App {
     this.app.listen(this.port, () => {
       console.info(`=================================`);
       console.info(`======= ENV: ${this.env} =======`);
-      console.info(`App listening on the port ${this.port}`);
+      console.info(`App listening on http://localhost:${this.port}`);
       console.info(`=================================`);
     });
   }

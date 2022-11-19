@@ -76,4 +76,22 @@ function getStats(): Stats {
   };
 }
 
-export { getRandomQuote, getAllQuotes, getAuthors, getStats };
+type SearchResults = {
+  [key: string]: string[];
+};
+
+function searchQuotes(searchTerm: string): SearchResults {
+  const searchResults = {};
+
+  for (const [author, a_quotes] of Object.entries(quotes)) {
+    for (const quote of a_quotes) {
+      if (quote.includes(searchTerm)) {
+        if (!(author in searchResults)) searchResults[author] = [];
+        searchResults[author].push(quote);
+      }
+    }
+  }
+  return searchResults;
+}
+
+export { getRandomQuote, getAllQuotes, getAuthors, getStats, searchQuotes };
