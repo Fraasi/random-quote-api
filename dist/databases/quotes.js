@@ -13,7 +13,8 @@ module.exports = {
         "You crave a relationship because you have none with yourself.",
         "Why were our ancestors saner and positively productive? Its a good question. Why were they less aggressive, acquisitive, and destructive? Why were they closer to nature? What is wrong with the way you exist? Well, the psychologists and sociologists of merit have been telling you for years. You are disassociated. You have infantile amnesia and inhabit an abstraction that is an anti-life. You are dead to the real and alive to the simulacra. You are outer-directed and always on the go, racing headlong toward your graves as if eager to get to them. You've replaced experience with reaction, intimacy with performance.",
         "Perhaps the greatest myth being purveyed, is that myths are just myths.",
-        "Those who do not think will always be manipulated and controlled by those who do.", 
+        "Those who do not think will always be manipulated and controlled by those who do.",
+        "Light conceils as much as reveals.", 
     ],
     "Swami Beyondananda": [
         "The bad news: There is no key to the universe. The good news: It was never locked.", 
@@ -80,7 +81,8 @@ module.exports = {
     ],
     "G.I. Gurdjieff": [
         "A man must first of all understand certain things. He has thousands of false ideas and false conceptions, chiefly about himself, and he must get rid of some of them before beginning to acquire anything new. Otherwise the new will be built on a wrong foundation and the result will be worse than before. To speak the truth is the most difficult thing in the world; one must study a great deal and for a long time in order to speak the truth. The wish alone is not enough. To speak the truth one must know what the truth is and what a lie is, and first of all in oneself. And this nobody wants to know.",
-        "Awakenlng is possible only for those who seek it and want it, for those who are ready to struggle with themselves and work on themselves for a very long time and very persistently in order to attain it.", 
+        "Awakenlng is possible only for those who seek it and want it, for those who are ready to struggle with themselves and work on themselves for a very long time and very persistently in order to attain it.",
+        "Everything is dependent on everything else, everything is connected, nothing is separate. Therefore everything is going in the only way it can go. If people were different everything would be different. They are what they are, so everything is as it is.", 
     ],
     "Ayn Rand": [
         "There's no way to rule innocent men. The only power government has is the power to crack down on criminals. When there aren't enough criminals, one makes them. One declares so many things to be a crime that it becomes impossible for men to live without breaking laws.",
@@ -154,7 +156,8 @@ module.exports = {
     "George Carlin": [
         "I leave symbols for the simple minded.",
         "Don’t confuse me with those who cling to hope. I enjoy describing how things are, I have no interest in how they ‘ought to be’. And I certainly have no interest in fixing them. I sincerely believe that if you think there’s a solution, you’re part of the problem. My motto: Fuck Hope! (Brain Droppings)",
-        "The decay and disintegration of this culture is astonishingly amusing if you are emotionally detached from it. I have always viewed it from a safe distance, knowing I don’t belong; it doesn’t include me, and it never has. No matter how you care to define it, I do not identify with the local group. Planet, species, race, nation, state, religion, party, union, club, association, neighborhood improvement committee; I have no interest in any of it. I love and treasure individuals as I meet them, I loathe and despise the groups they identify with and belong to. (Brain Droppings)", 
+        "The decay and disintegration of this culture is astonishingly amusing if you are emotionally detached from it. I have always viewed it from a safe distance, knowing I don’t belong; it doesn’t include me, and it never has. No matter how you care to define it, I do not identify with the local group. Planet, species, race, nation, state, religion, party, union, club, association, neighborhood improvement committee; I have no interest in any of it. I love and treasure individuals as I meet them, I loathe and despise the groups they identify with and belong to. (Brain Droppings)",
+        "We think in language. The quality of our thoughts & ideas can only be as good as the quality of our language.", 
     ],
     "T.S. Eliot": [
         "The last temptation is the greatest treason. To do the right thing for the wrong reason.", 
@@ -254,7 +257,8 @@ module.exports = {
         "Ulcers are caused not so much by what we eat as what's eating us.",
         "Earth without art is just 'eh'.",
         "And those who were seen dancing were thought to be insane by those who could not hear the music.",
-        "You are to yourself what your thoughts are, you are to others what your actions are.", 
+        "You are to yourself what your thoughts are, you are to others what your actions are.",
+        "Destructive behavior is often a reaction to an abhorrent environment.", 
     ],
     "Smedley Butler": [
         "After winning the Marine Corps Brevet Medal, the Army Distinguished Service Medal, the Navy Distinguished Service Medal, the French Order of the Black Star and TWO Congressional Medals of Honor, Butler said (as quoted in Common Sense magazine), 'I spent 33 years and four months in active service and during that period I spent most of my time as a high class muscle man for Big Business, for Wall Street and the bankers. In short, I was a racketeer, a gangster for capitalism. I helped make Mexico and especially Tampico safe for American oil interests in 1914. I helped make Haiti and Cuba a decent place for the National City Bank boys to collect revenues in. I helped in the raping of half a dozen Central American republics for the benefit of Wall Street. I helped purify Nicaragua for the International Banking House of Brown Brothers in 1902-1912. I brought light to the Dominican Republic for the American sugar interests in 1916. I helped make Honduras right for the American fruit companies in 1903. In China in 1927, I helped see to it that Standard Oil went on its way unmolested. Looking back on it, I might have given Al Capone a few hints. The best he could do was to operate his racket in three districts. I operated on three continents.' (USMC Brigadier General)", 
@@ -910,7 +914,8 @@ module.exports = {
         "People only accept change when they are faced with necessity, and only recognize necessity when a crisis is upon them.", 
     ],
     "Marcus Aurelius": [
-        "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.", 
+        "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+        "The opinion of 10,000 men is of no value if none of them know anything about the subject.", 
     ],
     "Christine Anderson": [
         "In the entire history of mankind there has never been a political elite sincerely concerned about the wellbeing of regular people. What makes any of us think that it is different now? (Member Of European Parliament)",
@@ -935,7 +940,7 @@ module.exports = {
         "Your worst sin is that you have destroyed and betrayed yourself for nothing.", 
     ],
     "Ron Suskind": [
-        "We’re an empire now, and when we act, we create our own reality. And while you’re studying that reality – judiciously, as you will – we’ll act again, creating other new realities, which you can study too, and that’s how things will sort out. We’re history’s actors . . . and you, all of you, will be left to just study what we do.” (NYTimes Magazine, Oct. 17, 2004)"
+        "We’re an empire now, and when we act, we create our own reality. And while you’re studying that reality – judiciously, as you will – we’ll act again, creating other new realities, which you can study too, and that’s how things will sort out. We’re history’s actors . . . and you, all of you, will be left to just study what we do.” (NYTimes Magazine, Oct. 17, 2004)", 
     ],
     "Dietrich Bonhoeffer": [
         "The person who loves their dream of community will destroy community, but the person who loves those around them will create community.", 
@@ -946,6 +951,27 @@ module.exports = {
     "James Corbett": [
         "After all, if the Kings and Queens and Emperors and Pharaohs were not gods, or at least chosen by God, why would anyone listen to them? The difference between a regal king and a tinpot dictator disappears if the king's divinity is denied.",
         "We must face a cold, hard reality: we are in the midst of WWIII, it is a war on free humanity by their own governments, it is being waged in secret, and it is a war in which the would-be world controllers have no compunction about doing anything—even modifying the weather and exacerbating ongoing emergencies—to increase their power over the people. Until we acknowledge that unpleasant truth, nothing can change.", 
+    ],
+    "Frank Zappa": [
+        "Politics is the entertainment division of the military industrial complex.",
+        "The illusion of freedom will continue as long as it's profitable to continue the illusion. At the point where the illusion becomes too expensive to maintain, they will just take down the scenery, they will pull back the curtains, they will move the tables and chairs out of the way and you will see the brick wall at the back of the theater.",
+        "The most important thing in art is The Frame. For painting: literally; for other arts: figuratively-- because, without this humble appliance, you can't know where The Art stops and The Real World begins. You have to put a 'box' around it because otherwise, what is that shit on the wall?",
+        "A mind is like a parachute. It doesn’t work if it is not open.",
+        "It gets harder the more you know. Because the more you find out the uglier everything seems.",
+        "If you wanna grow up, which most people don’t, the thing to do is take responsibility for your own reality and deal with it on your own terms.",
+        "There are more love songs than anything else. If songs could make you do something we'd all love one another.", 
+    ],
+    "John McAfee": [
+        "Here's my position: that we are being lied to by the government from every single corner of the world. The CIA provides [info], which is deceptive, manipulative. The government provides information which is manipulative and deceptive. So if you ask me, for example, what my position is, on anything, how the fuck would I know? Because I don't have any information that is real. So what is the point? I say that first, we have to fucking wake up and understand that we have a corrupt government, that we have a system of slavery, in effect. I mean we work for three to four to five months every year for the government for free, in terms of paying income taxes. Is that not slavery?", 
+    ],
+    "Henry Ford": [
+        "It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning.", 
+    ],
+    "Sherry L. Ackerman": [
+        "Nietzsche said that we were all Hyperboreans. I'd say that if our culture were any more alienated from Nature, he'd have been better advised to call us all Extraterrestrials. We are, frankly, so removed from Nature that it's hard to take seriously our claim to be a vital part of the planet. More worrisome is the fact that most people don't even recognize the alienation. ", 
+    ],
+    "Philip K. Dick": [
+        "Reality is that which, when you stop believing in it, doesn't go away.", 
     ]
 };
 

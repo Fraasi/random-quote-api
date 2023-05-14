@@ -13,16 +13,13 @@ module.exports = {
     "Why were our ancestors saner and positively productive? Its a good question. Why were they less aggressive, acquisitive, and destructive? Why were they closer to nature? What is wrong with the way you exist? Well, the psychologists and sociologists of merit have been telling you for years. You are disassociated. You have infantile amnesia and inhabit an abstraction that is an anti-life. You are dead to the real and alive to the simulacra. You are outer-directed and always on the go, racing headlong toward your graves as if eager to get to them. You've replaced experience with reaction, intimacy with performance.",
     "Perhaps the greatest myth being purveyed, is that myths are just myths.",
     "Those who do not think will always be manipulated and controlled by those who do.",
+    "Light conceils as much as reveals.",
   ],
   "Swami Beyondananda": [
     "The bad news: There is no key to the universe. The good news: It was never locked.",
   ],
-  "Chuck Close": [
-    "Inspiration is for amateurs. I just get to work."
-  ],
-  "J.M. Barrie": [
-    "I can’t sleep. (last words)"
-  ],
+  "Chuck Close": ["Inspiration is for amateurs. I just get to work."],
+  "J.M. Barrie": ["I can’t sleep. (last words)"],
   "Friedrich Nietzsche": [
     "Verily, I have often laughed at the weaklings who thought themselves good because they had no claws",
     "You have your way. I have my way. As for the right way, the correct way and the only way, it does not exist.",
@@ -51,7 +48,7 @@ module.exports = {
     "Why does man not see things as they are? — because he is himself standing in the way: he conceals things.",
     "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who 'think alike than those who think differently.",
     "Liberal institutions straightway cease from being liberal the moment they are soundly established: once this is attained no more grievous and more thorough enemies of freedom exist than liberal institutions.",
-	"That which is ready to fall, shall ye also push!",
+    "That which is ready to fall, shall ye also push!",
   ],
   "Richard Wagner": [
     "It is not important whether man is descended from apes; it is much more important, that he does not return there.",
@@ -80,6 +77,7 @@ module.exports = {
   "G.I. Gurdjieff": [
     "A man must first of all understand certain things. He has thousands of false ideas and false conceptions, chiefly about himself, and he must get rid of some of them before beginning to acquire anything new. Otherwise the new will be built on a wrong foundation and the result will be worse than before. To speak the truth is the most difficult thing in the world; one must study a great deal and for a long time in order to speak the truth. The wish alone is not enough. To speak the truth one must know what the truth is and what a lie is, and first of all in oneself. And this nobody wants to know.",
     "Awakenlng is possible only for those who seek it and want it, for those who are ready to struggle with themselves and work on themselves for a very long time and very persistently in order to attain it.",
+    "Everything is dependent on everything else, everything is connected, nothing is separate. Therefore everything is going in the only way it can go. If people were different everything would be different. They are what they are, so everything is as it is.",
   ],
   "Ayn Rand": [
     "There's no way to rule innocent men. The only power government has is the power to crack down on criminals. When there aren't enough criminals, one makes them. One declares so many things to be a crime that it becomes impossible for men to live without breaking laws.",
@@ -110,11 +108,11 @@ module.exports = {
     "Technological progress has merely provided us with more efficient means for going backwards.",
     "Most human beings have an almost infinite capacity for taking things for granted. That men do not learn very much from the lessons of history is the most important of all the lessons of history.",
     "The surest way to work up a crusade in favor of some good cause is to promise people they will have a chance of maltreating someone. To be able to destroy with good conscience, to be able to behave badly and call your bad behavior 'righteous indignation' — this is the height of *psychological luxury*, the most delicious of moral treats.",
-	"Maybe this world is another planet’s hell.",
-	"In spite of language, in spite of intelligence and intuition and sympathy, one can never really communicate anything to anybody. The essential substance of every thought and feeling remains incommunicable, locked up in the impenetrable strong-room of the individual soul and body. Our life is a sentence of perpetual solitary confinement.",
-	"That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach.",
-	"There are things known and there are things unknown, and in between are the doors of perception.",
-	"The more powerful and original a mind, the more it will incline towards the religion of solitude.",
+    "Maybe this world is another planet’s hell.",
+    "In spite of language, in spite of intelligence and intuition and sympathy, one can never really communicate anything to anybody. The essential substance of every thought and feeling remains incommunicable, locked up in the impenetrable strong-room of the individual soul and body. Our life is a sentence of perpetual solitary confinement.",
+    "That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach.",
+    "There are things known and there are things unknown, and in between are the doors of perception.",
+    "The more powerful and original a mind, the more it will incline towards the religion of solitude.",
   ],
   "Jordan Maxwell ?": [
     "I may be foolish but certainly not a fool. Some would say I'm out of my mind while I say simply my mind is open.",
@@ -152,6 +150,7 @@ module.exports = {
     "I leave symbols for the simple minded.",
     "Don’t confuse me with those who cling to hope. I enjoy describing how things are, I have no interest in how they ‘ought to be’. And I certainly have no interest in fixing them. I sincerely believe that if you think there’s a solution, you’re part of the problem. My motto: Fuck Hope! (Brain Droppings)",
     "The decay and disintegration of this culture is astonishingly amusing if you are emotionally detached from it. I have always viewed it from a safe distance, knowing I don’t belong; it doesn’t include me, and it never has. No matter how you care to define it, I do not identify with the local group. Planet, species, race, nation, state, religion, party, union, club, association, neighborhood improvement committee; I have no interest in any of it. I love and treasure individuals as I meet them, I loathe and despise the groups they identify with and belong to. (Brain Droppings)",
+    "We think in language. The quality of our thoughts & ideas can only be as good as the quality of our language.",
   ],
   "T.S. Eliot": [
     "The last temptation is the greatest treason. To do the right thing for the wrong reason.",
@@ -171,13 +170,13 @@ module.exports = {
   "Eric Arthur Blair": [
     "All the war propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting.",
     "He who controls the past, controls the future. He who controls the present, controls the past.",
-	"I remember saying once to Arthur Koestler, ‘History stopped in 1936’, at which he nodded in immediate understanding. We were both thinking of totalitarianism in general, but more particularly of the Spanish civil war. Early in life I have noticed that no event is ever correctly reported in a newspaper, but in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories; and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened. I saw, in fact, history being written not in terms of what happened but of what ought to have happened according to various ‘party lines’.",
-	"The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
+    "I remember saying once to Arthur Koestler, ‘History stopped in 1936’, at which he nodded in immediate understanding. We were both thinking of totalitarianism in general, but more particularly of the Spanish civil war. Early in life I have noticed that no event is ever correctly reported in a newspaper, but in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories; and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened. I saw, in fact, history being written not in terms of what happened but of what ought to have happened according to various ‘party lines’.",
+    "The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
     "Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'",
     "Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously and accepting both of them.",
     "Reality exists in the human mind, and nowhere else.",
     "That the choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better.",
-	"Writing a book is a horrible, exhausting struggle, like a long bout with some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand.",
+    "Writing a book is a horrible, exhausting struggle, like a long bout with some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand.",
   ],
   "Heinrich Heine": [
     "Where they have burned books, they will end in burning human beings. (1821)",
@@ -252,6 +251,7 @@ module.exports = {
     "Earth without art is just 'eh'.",
     "And those who were seen dancing were thought to be insane by those who could not hear the music.",
     "You are to yourself what your thoughts are, you are to others what your actions are.",
+    "Destructive behavior is often a reaction to an abhorrent environment.",
   ],
   "Smedley Butler": [
     "After winning the Marine Corps Brevet Medal, the Army Distinguished Service Medal, the Navy Distinguished Service Medal, the French Order of the Black Star and TWO Congressional Medals of Honor, Butler said (as quoted in Common Sense magazine), 'I spent 33 years and four months in active service and during that period I spent most of my time as a high class muscle man for Big Business, for Wall Street and the bankers. In short, I was a racketeer, a gangster for capitalism. I helped make Mexico and especially Tampico safe for American oil interests in 1914. I helped make Haiti and Cuba a decent place for the National City Bank boys to collect revenues in. I helped in the raping of half a dozen Central American republics for the benefit of Wall Street. I helped purify Nicaragua for the International Banking House of Brown Brothers in 1902-1912. I brought light to the Dominican Republic for the American sugar interests in 1916. I helped make Honduras right for the American fruit companies in 1903. In China in 1927, I helped see to it that Standard Oil went on its way unmolested. Looking back on it, I might have given Al Capone a few hints. The best he could do was to operate his racket in three districts. I operated on three continents.' (USMC Brigadier General)",
@@ -675,7 +675,7 @@ module.exports = {
     "Give me six lines written by the most honorable of men, and I will find an excuse in them to hang him.",
   ],
   "William Shakespeare": [
-	"I could be bounded in a nutshell, and count myself a king of infinite space - were it not that I have bad dreams.",
+    "I could be bounded in a nutshell, and count myself a king of infinite space - were it not that I have bad dreams.",
   ],
   "Harry Crumb": [
     "I've been so thoroughly trained, I don't even have to think before I speak.",
@@ -856,6 +856,7 @@ module.exports = {
   ],
   "Marcus Aurelius": [
     "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+    "The opinion of 10,000 men is of no value if none of them know anything about the subject.",
   ],
   "Christine Anderson": [
     "In the entire history of mankind there has never been a political elite sincerely concerned about the wellbeing of regular people. What makes any of us think that it is different now? (Member Of European Parliament)",
@@ -874,22 +875,43 @@ module.exports = {
     "The illegal we do immediately; The unconstitutional takes a little longer.",
   ],
   "Fyodor Dostoevsky": [
-	"I say let the world go to hell, but I should always have my tea.",
-	"What is hell? I maintain that it is the suffering of being unable to love.",
-	"To go wrong in one's own way is better than to go right in someone else's.",
-	"Your worst sin is that you have destroyed and betrayed yourself for nothing.",
+    "I say let the world go to hell, but I should always have my tea.",
+    "What is hell? I maintain that it is the suffering of being unable to love.",
+    "To go wrong in one's own way is better than to go right in someone else's.",
+    "Your worst sin is that you have destroyed and betrayed yourself for nothing.",
   ],
   "Ron Suskind": [
-	"We’re an empire now, and when we act, we create our own reality. And while you’re studying that reality – judiciously, as you will – we’ll act again, creating other new realities, which you can study too, and that’s how things will sort out. We’re history’s actors . . . and you, all of you, will be left to just study what we do.” (NYTimes Magazine, Oct. 17, 2004)"
+    "We’re an empire now, and when we act, we create our own reality. And while you’re studying that reality – judiciously, as you will – we’ll act again, creating other new realities, which you can study too, and that’s how things will sort out. We’re history’s actors . . . and you, all of you, will be left to just study what we do.” (NYTimes Magazine, Oct. 17, 2004)",
   ],
   "Dietrich Bonhoeffer": [
-	"The person who loves their dream of community will destroy community, but the person who loves those around them will create community.",
+    "The person who loves their dream of community will destroy community, but the person who loves those around them will create community.",
   ],
   "Mandy Hale": [
     "Until you get comfortable with being alone, you’ll never know if you’re choosing someone out of love or loneliness.",
-	],
+  ],
   "James Corbett": [
     "After all, if the Kings and Queens and Emperors and Pharaohs were not gods, or at least chosen by God, why would anyone listen to them? The difference between a regal king and a tinpot dictator disappears if the king's divinity is denied.",
-	"We must face a cold, hard reality: we are in the midst of WWIII, it is a war on free humanity by their own governments, it is being waged in secret, and it is a war in which the would-be world controllers have no compunction about doing anything—even modifying the weather and exacerbating ongoing emergencies—to increase their power over the people. Until we acknowledge that unpleasant truth, nothing can change.",
-  ]
+    "We must face a cold, hard reality: we are in the midst of WWIII, it is a war on free humanity by their own governments, it is being waged in secret, and it is a war in which the would-be world controllers have no compunction about doing anything—even modifying the weather and exacerbating ongoing emergencies—to increase their power over the people. Until we acknowledge that unpleasant truth, nothing can change.",
+  ],
+  "Frank Zappa": [
+    "Politics is the entertainment division of the military industrial complex.",
+    "The illusion of freedom will continue as long as it's profitable to continue the illusion. At the point where the illusion becomes too expensive to maintain, they will just take down the scenery, they will pull back the curtains, they will move the tables and chairs out of the way and you will see the brick wall at the back of the theater.",
+    "The most important thing in art is The Frame. For painting: literally; for other arts: figuratively-- because, without this humble appliance, you can't know where The Art stops and The Real World begins. You have to put a 'box' around it because otherwise, what is that shit on the wall?",
+    "A mind is like a parachute. It doesn’t work if it is not open.",
+    "It gets harder the more you know. Because the more you find out the uglier everything seems.",
+    "If you wanna grow up, which most people don’t, the thing to do is take responsibility for your own reality and deal with it on your own terms.",
+    "There are more love songs than anything else. If songs could make you do something we'd all love one another.",
+  ],
+  "John McAfee": [
+    "Here's my position: that we are being lied to by the government from every single corner of the world. The CIA provides [info], which is deceptive, manipulative. The government provides information which is manipulative and deceptive. So if you ask me, for example, what my position is, on anything, how the fuck would I know? Because I don't have any information that is real. So what is the point? I say that first, we have to fucking wake up and understand that we have a corrupt government, that we have a system of slavery, in effect. I mean we work for three to four to five months every year for the government for free, in terms of paying income taxes. Is that not slavery?",
+  ],
+  "Henry Ford": [
+    "It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning.",
+  ],
+  "Sherry L. Ackerman": [
+    "Nietzsche said that we were all Hyperboreans. I'd say that if our culture were any more alienated from Nature, he'd have been better advised to call us all Extraterrestrials. We are, frankly, so removed from Nature that it's hard to take seriously our claim to be a vital part of the planet. More worrisome is the fact that most people don't even recognize the alienation. ",
+  ],
+  "Philip K. Dick": [
+    "Reality is that which, when you stop believing in it, doesn't go away.",
+  ],
 };
